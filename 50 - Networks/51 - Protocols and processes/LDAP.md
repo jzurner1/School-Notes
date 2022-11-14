@@ -1,0 +1,4 @@
+Lightweight directory access protocol is a protocol that provides directory services to network clients. It uses TCP port 389. The secure version is LDAPS. It was created to provide simple network authentication services to multiple applications and devices on a local network.
+
+# OpenLDAP
+The most popular Linux version is OpenLDAP. OpenLDAP allows you to design a hierarchical database to store objects in a network, specifically in a treelike fashion. This allows you to group objects by types such as users and servers, or by location, or both. This is a very flexible way to design authentication for a local network.

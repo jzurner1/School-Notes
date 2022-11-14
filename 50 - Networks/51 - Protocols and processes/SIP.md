@@ -1,0 +1,1 @@
+Session initiation protocol is a protocol used to create and end session for one or more media connections including VoIP. It uses both TCP and UDP ports 5060 and 5061.

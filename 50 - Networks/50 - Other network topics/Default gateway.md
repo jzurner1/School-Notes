@@ -1,0 +1,1 @@
+The default gateway is the node in a network that serves as the forwarding host to other networks when no other route specification matches the IP address of a packet.

@@ -1,0 +1,1 @@
+The automatic assignment of IP addresses in a network. In a TCP/IPv4 environment, this is often accomplished with DHCP. It is an alternative to static assignment.

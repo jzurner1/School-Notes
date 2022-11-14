@@ -1,0 +1,1 @@
+Lightweight directory access protocol over SSL is a protocol that provides directory services to network clients. It operates over TCP port 636 and is the secure version of LDAP.

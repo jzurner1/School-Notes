@@ -1,0 +1,1 @@
+Statistical time-division multiplexing. A type of multiplexing that is similar to TDM except it assigns time slots to communication sessions on an as-needed basis.

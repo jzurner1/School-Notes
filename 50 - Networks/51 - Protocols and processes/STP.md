@@ -1,0 +1,1 @@
+Spanning tree protocol is a layer 2 network protocol used to prevent looping within a network topology.

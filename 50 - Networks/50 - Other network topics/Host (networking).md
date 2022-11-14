@@ -1,0 +1,1 @@
+In networking, a host is any device that communicates with other hosts on a network.

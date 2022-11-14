@@ -1,0 +1,1 @@
+A voice-over-IP-enabled network digitizes speech into packets and transmits those packets across a network. This allows voice, data, and even video to chare the same medium. It is very dependant on QoS.

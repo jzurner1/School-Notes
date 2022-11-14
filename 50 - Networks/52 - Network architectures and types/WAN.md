@@ -1,0 +1,1 @@
+A wide area network is a network that connects multiple components from a distance such as across a city or a campus. MPLS and ATN are examples of WAN technologies.
