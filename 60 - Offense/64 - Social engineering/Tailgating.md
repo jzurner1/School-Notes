@@ -1,0 +1,1 @@
+Tailgating is a type of physical attack where an attack physically follows a valid employee through a secured area of an organization. This may mean following an employee that uses a swipe card.

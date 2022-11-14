@@ -1,0 +1,1 @@
+A type of attack in which an attacker injects false entries into the DNS system. This might be used to deny service to systems or to redirect them to websites that may be designed to disseminate malware or collect credentials.
