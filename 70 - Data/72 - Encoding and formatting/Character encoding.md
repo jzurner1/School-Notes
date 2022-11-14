@@ -1,4 +1,4 @@
-The process of assigning numbers to graphical characters, specifically bits to alphanumeric characters.
+An [[encoding|encoding]] practice; the process of assigning numbers to graphical characters, specifically bits to alphanumeric characters.
 
 A character set is defines a standard code used to interpret and display characters in a language. There are a number of sets, but these are the most common:
 

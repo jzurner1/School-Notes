@@ -1,4 +1,4 @@
-An information system is a set of components designed to collect, store, and process data and provide knowledge, information, and digital products.
+An information system is a set of components designed to collect, store, and process data and provide knowledge, [[information|information]], and digital products.
 
 Components include:
 - Hardware

@@ -1,4 +1,4 @@
-Also known as digital forensics, the action of pulling data from devices such as search histories, purchase records, time logs, and more. The data is then analyzed and investigated for various purposes such as law enforcement, where it is treated as digital evidence. It often includes device metadata.
+Also known as digital forensics, the action of pulling [[data|data]] from devices such as search histories, purchase records, time logs, and more. The data is then analyzed and investigated for various purposes such as law enforcement, where it is treated as digital evidence. It often includes device metadata.
 
 Computer forensics is often used for cases such as intellectual property theft, employment disputes, invoice fraud, forgeries, inappropriate email and internet use, and regulatory compliance.
 

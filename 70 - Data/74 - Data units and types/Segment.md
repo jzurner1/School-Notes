@@ -1,1 +1,1 @@
-PDUs that exist at the transport, session, presentation, and application layers.
+[[protocol data unit|PDUs]] that exist at the transport, session, presentation, and application layers.

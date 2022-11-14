@@ -1,4 +1,4 @@
-A unit of information is a measured number of bits containing data.
+A unit of information is a measured number of bits containing [[data|data]].
 
 Traditionally, bits and the larger versions (kilobits, megabits, etc) are used to talk about speed, such as megabits per second. Bytes are use for storage.
 
@@ -12,9 +12,9 @@ There are a number of other data units to know:
 | SWord  | 16           | Yes     |
 | DWord  | 32           | No      |
 | SDWord | 32           | Yes     |
-| FWord  | 48           | Unknown |
-| QWord  | 64           | Unknown |
-| TByte  | 80           | Unknown |
-| Real4  | 32           | Unknown |
-| Real8  | 64           | Unknown |
-| Real10 | 80           | Unknown        |
+| FWord  | 48           |  |
+| QWord  | 64           |  |
+| TByte  | 80           |  |
+| Real4  | 32           |  |
+| Real8  | 64           |  |
+| Real10 | 80           |         |

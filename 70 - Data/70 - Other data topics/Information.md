@@ -1,1 +1,1 @@
-Information is data put into context
+Information is [[data|data]] put into context.

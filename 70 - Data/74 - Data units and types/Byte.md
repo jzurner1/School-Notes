@@ -1,4 +1,4 @@
-A byte is a unit of information that represents 8 bits.
+A byte is a [[units of information|unit of information]] that represents 8 bits.
 
 ![[The-amazing-history-of-the-Data-Byte.png]]
 

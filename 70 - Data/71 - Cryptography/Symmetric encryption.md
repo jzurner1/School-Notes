@@ -1,4 +1,4 @@
-Symmetric encryption, also called private or secret keys, is faster than asymmetric encryption but less secure. It means that both the sender and the receiver use the same key to encrypt or decrypt a packet.
+Symmetric [[encryption|encryption]], also called private or secret keys, is faster than asymmetric encryption but less secure. It means that both the sender and the receiver use the same key to encrypt or decrypt a packet.
 
 ![[Pasted image 20220924132126.png]]
 

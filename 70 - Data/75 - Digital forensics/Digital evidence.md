@@ -1,4 +1,4 @@
-Digital information found on a digital device, often used in computer forensics. It can include emails, audio files, metadata, databases, spreadsheets, system logs, and so on.
+Digital information found on a [[digital device|digital device]], often used in computer forensics. It can include emails, audio files, metadata, databases, spreadsheets, system logs, and so on.
 
 For example, mobile devices often use cloud-based backup systems that save text messages. This can be used by investigators to find information about those messages.
 
