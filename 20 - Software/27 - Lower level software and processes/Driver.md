@@ -1,0 +1,1 @@
+A device driver is a piece of software that is designed to enable a hardware component. It allows the OS to recognize, control, and use the hardware component. They are hardware- and operating system-specific. For example, a printer connected to a computer using Windows 7 will require a different driver than a mouse connected to a computer using macOS.

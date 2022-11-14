@@ -1,0 +1,1 @@
+A software tool used to probe network devices to determine which ports are open. This can be done on a single device or multiple devices with a port sweep. An example of this is nmap.

@@ -1,0 +1,1 @@
+A tool that can acquire IP address information for systems in a network. Many scanners can provide additional information such as operating systems, software applications, and physical resource usage information.

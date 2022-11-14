@@ -1,0 +1,1 @@
+NetFlow is a software component included in many network devices today that collects statistics about the traffic flows through a device. It can be analyzed with a NetFlow analyzer.

@@ -1,0 +1,1 @@
+Discretionary access control (DAC) is the traditional Linux security control, where access to files, directories, and objects is based on the user's identity and current group membership. When a user account is created, it is given membership to a particular group called the account's default group. 

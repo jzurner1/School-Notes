@@ -1,0 +1,1 @@
+Also known as a packet sniffer or a packet capture tool, a device or piece of software that can capture traffic flowing through a network switch using the port mirroring feature of the switch. It can be used to gain insight on how traffic flows through a network. Wireshark is an example of this.

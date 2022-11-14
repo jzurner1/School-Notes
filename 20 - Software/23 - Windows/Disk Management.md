@@ -1,0 +1,1 @@
+Disk Management is a tool used in Windows to manage storage devices. Windows has two types of storage, basic storage and dynamic storage. The biggest difference is that you can make partitions and resize changes with a dynamic disk but not with a basic disk.

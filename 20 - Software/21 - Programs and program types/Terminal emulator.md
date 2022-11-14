@@ -1,0 +1,1 @@
+A program that allows you to access a command line interface to monitor and configure devices.

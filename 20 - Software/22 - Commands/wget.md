@@ -1,0 +1,1 @@
+wget is a software package used for retrieving files using HTTP, HTTPS, FTP, and FTPS. It can be used in scripts easily as it is noninteractive.

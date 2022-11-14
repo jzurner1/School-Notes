@@ -1,0 +1,1 @@
+A runlevel determines how a Linux system will run. The `/etc/inittab` file determines scripts to be run on each runlevel.

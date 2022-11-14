@@ -1,0 +1,1 @@
+A central database in Windows that holds hardware information and other data. All software applications access the registry for configuration information on adapters and hardware.

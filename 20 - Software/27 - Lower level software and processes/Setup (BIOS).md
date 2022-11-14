@@ -1,0 +1,1 @@
+The Setup program is a piece of software built into the BIOS chip. It can be accessed using certain keys determined by the BIOS manufacturer and allows troubleshooting hardware.
