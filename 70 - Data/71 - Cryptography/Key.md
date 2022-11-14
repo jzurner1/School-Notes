@@ -1,0 +1,1 @@
+Something that can be used to decrypt a message. It is usually held by the sender and receiver of an encrypted message.

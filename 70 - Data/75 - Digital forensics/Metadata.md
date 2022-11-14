@@ -1,0 +1,1 @@
+Data about data, describing the various properties of a file such as the timestamp, location, creation date, date modified, last accessed date, and sometimes deletion dates. It does not, however, contain any information about the contents of a file.
