@@ -1,0 +1,1 @@
+Anomoly-based detection is an approach to IDS/IPS detection. It tries to detect any odd traffic that may not be normal, which is very hard to do. It may do it through statistical anomaly detection, meaning a baseline is set, or nonstatistical anomaly detection, meaning an administrator defines what traffic patterns are supposed to look like.
