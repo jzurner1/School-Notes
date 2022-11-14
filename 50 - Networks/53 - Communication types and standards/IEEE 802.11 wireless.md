@@ -1,0 +1,1 @@
+The 802.11 wireless standard is used to connect mobile devices to a wireless network in the 2.4GHz and/or 5GHz range. A wireless access point is used to coordinate this in a local area.

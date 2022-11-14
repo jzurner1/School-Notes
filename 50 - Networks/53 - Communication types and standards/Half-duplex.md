@@ -1,0 +1,1 @@
+A connection that allows a device to transmit or receive data at any one time, but not both simultaneously. Opposite of full-duplex.

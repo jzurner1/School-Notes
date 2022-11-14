@@ -1,0 +1,3 @@
+WPA2 is a standard for WLAN security. It uses stronger algorithms than the previous WEP and WPA versions and uses counter mode with cipher block chaining message authentication code protocol (CCMP) for integrity checking an advanced encryption standard (AES) for encryption. This may be known as CCMP-AES.
+
+If WPA2 uses a centralized server for authenticating users, it is referred to as WPA2 enterprise mode. If it uses a configured password or PSK, it is referred to as WPA2 personal mode.

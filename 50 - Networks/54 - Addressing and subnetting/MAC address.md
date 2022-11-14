@@ -1,0 +1,1 @@
+A 48-bit address assigned to a device's network interface card (NIC). They are written in hexadecimal notation where the first 24 bits are the vendor code and the last 24 bits are assigned by the manufacturer as a serial number for the device. They are unique worldwide.

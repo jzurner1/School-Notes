@@ -1,0 +1,1 @@
+Transport layer security, a cryptographic protocol designed to provide communications security over a computer network.

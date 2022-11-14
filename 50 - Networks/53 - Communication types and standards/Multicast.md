@@ -1,0 +1,5 @@
+As an alternative to broadcast and unicast, multicast is used to send traffic from a single host to multiple specific recipients.
+
+If, for example, a video server wants to send out a stream to 20 different hosts, it would cause significant lag to send it out once per host as would happen with unicast. If they tried broadcast, every device must take time to scan the received packets, even if it didn't ask for them. Either way, it slows down the host or server significantly.
+
+Multicast offers a compromise, only sending the stream once and only to devices that want to receive it. This is done with the use of a class D address. The server could sent out traffic with the class D address (also known as multicast address) and the switches/routers in the network could make sure that only the members of the multicast group receive it.

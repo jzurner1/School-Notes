@@ -1,0 +1,1 @@
+Internet protocol security is a complex suite of protocols used to create secured connections between network systems. It is quickly becoming the standard for VPN connections and it uses authentication headers (AH) and encapsulating security payload (ESP). AH handles authentication while ESP takes care of encryption.
