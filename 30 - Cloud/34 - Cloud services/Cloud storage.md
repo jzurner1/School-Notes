@@ -1,0 +1,1 @@
+Storage hosted on a server (the cloud) and accessible online. It comes in different types.

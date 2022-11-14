@@ -1,0 +1,1 @@
+Infrastructure as a service; provices computing services such as load balancing, routing, virtualized OS, and basic networking. A company will rent the virtualized servers being hosted and run specific applications on those servers.

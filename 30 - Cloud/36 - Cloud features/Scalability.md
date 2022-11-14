@@ -1,0 +1,1 @@
+A cloud solution's ability to grow with need or demand; a part of elasticity.

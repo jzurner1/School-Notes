@@ -1,0 +1,1 @@
+NFV is the process of virtualizing aspects of a network such as security, storage, computing, and monitoring services.

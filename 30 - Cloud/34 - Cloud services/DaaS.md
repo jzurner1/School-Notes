@@ -1,0 +1,1 @@
+Desktop as a service, refers to cloud-based OS desktops made available to cloud clients. Also known as virtual desktop infrastructure (VDI).

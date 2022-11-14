@@ -1,0 +1,1 @@
+A server on a network that provides backups of software images that power network devices as well as backup and baseline configurations.

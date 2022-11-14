@@ -1,0 +1,3 @@
+The components that make up a computer network (routers, switches, etc) are designed to operate within certain environmental limits such as temperature, humidity, and so on. This is considered part of the network's performance metrics.
+
+Similar to other devices, environmental monitors log data and can send out a notification if any issues are detected. Some monitors will send notifications to SNMP servers known as SNMP traps.
