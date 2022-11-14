@@ -1,0 +1,1 @@
+Input devices allow the user to input data. This includes devices such as keyboards, mice, touchscreens, scanners, microphones, or webcams. They work with output devices.

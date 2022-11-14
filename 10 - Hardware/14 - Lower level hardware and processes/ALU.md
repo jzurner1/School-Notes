@@ -1,0 +1,1 @@
+The arithmetic logic units is part of a [[CPU|processor]]. It performs arithmetic and logical operations, meaning it is where calculations are done and decisions are made. It acts as a gateway between memory and secondary storage.

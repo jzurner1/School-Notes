@@ -1,0 +1,3 @@
+Ethernet over power, also known as powerline communication, send network data to EoP modules plugged into power outlets to extend Ethernet networks. Some EoP modules support wireless connectivity too.
+
+To use EoP, you need at least two EoP modules. One would be plugged into a power outlet near the router/modem and the other connected somewhere else in the building. An Ethernet cord must connect the internet modem to the module that is close to it, and the other module should have an Ethernet cord between it and a stranded device.

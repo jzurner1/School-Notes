@@ -1,0 +1,1 @@
+A video card, also known as a video adapter, controls most of the display output of a [[Digital device|digital device]]. They are commonly installed into PCIe expansion slots.

@@ -1,0 +1,1 @@
+A [[Network device|network device]] that connects a computer to a network. Also called a network port.

@@ -1,0 +1,1 @@
+An access point is a device that creates a wireless LAN. It connects to a wired router, hub, or switch using an Ethernet cable and projects a WiFi signal to a designated area. For example, if you want WiFi in an area but don't have a router in range, you can install an access point and wire it to the server room.

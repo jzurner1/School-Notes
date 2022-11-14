@@ -1,0 +1,1 @@
+Interrupt request numbers, assigned to adapters, port, or devices for orderely communication between it and the [[CPU|processor]]. If two actions are taken at the same time (such as a mouse click and a keyboard press), the port with the highest priority IRQ number goes first.

@@ -1,0 +1,1 @@
+Some network devices cannot be interconnected with normal [[cable|cables]] because they use the same wires for transmission and reception. This requires the transmit and receive wire pairs to be switched between the two ends of the cable.

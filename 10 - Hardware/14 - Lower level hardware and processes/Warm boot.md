@@ -1,0 +1,1 @@
+When a computer is restarted, that is a warm boot. It will skip parts of the BIOS and the POST test. The opposite is a cold boot.

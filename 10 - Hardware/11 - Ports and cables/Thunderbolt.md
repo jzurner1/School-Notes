@@ -1,0 +1,1 @@
+A Thunderbolt [[multipurpose ports|port/cable]] was developed by Intel and Apple and is a type of multipurpose port. It can be used for video signals, power, audio, video, and data.
