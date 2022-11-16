@@ -1,6 +1,7 @@
 A full list of Linux commands
 
 `apt-get` - Allows management of packages
+`arp` - Display ARP table
 `cat` - Print the contents of a file
 `cd` - Change directory
 `chmod` - Modify rwx permissions for a file/folder
@@ -16,15 +17,20 @@ A full list of Linux commands
 `du` - List disk usage
 `echo` - Print something to screen
 `egrep` - The same as `grep -e`, used for extended regex
+`ethtool` - Query and control network device drivers and hardware settings
 `find` - Find a file
 `file` - See the filetype of a file
 `free` - List free memory
 `grep` - Find something in a file
 `head` - Another tool to read a file similar to `cat`, but by default only prints the first 10 lines of a file
+`host` - Used for DNS lookup
 `id` - Find information about a user or group
 `ifconfig` - Shows network interface information for Ethernet ports
 `iostat` - Display a real-time chart of disk statistics by partition
-`iwconfig` - Shows network interface information for wireless adapters (not vanilla)
+`iperf` - Perform network throughput tests
+`iperf3` - Newer version of `iperf`
+`iwconfig` - Shows network interface information for wireless adapters, requires nettools
+`kill` - End processes by PID
 `last` - Print access history and reboots
 `less` - Open and view a text file without editing
 `locate` - Search the system for a file
@@ -38,12 +44,21 @@ A full list of Linux commands
 `md5sum` - Old cryptography algorithm, now useful for verifying integrity
 `mkdir` - Create a folder/directory
 `mount` - Mount a filesystem
+`mtr` - Display approximate travel times and packet loss between source and destination
 `mv` - Move or rename a file/folder
+`nc` - Netcat utility
+`netstat` - Displays network connections
+`nice` - Run a command with a custom priority
 `passwd` - Sets the password for a user
+`pgrep` - Search processes by name
+`ping` - Use simple ICMP packets to test throughput, specifically with IPv4
+`ping6` - Same as `ping` but with IPv6
+`pkill` - End processes by name
 `pr` - Print an entire text file like `cat`, but has more options
 `printf` - Format and display text data
 `ps` - Lists all current processes
 `pwd` - Present working directory (print the current path)
+`renice` - Change the priority of a running process
 `rm` - Remove a file
 `rmdir` - Remove a directory
 `rsync` - Remote sync, used to copy files quickly, possibly over a network, such as for backups and similar purposes
@@ -60,10 +75,16 @@ A full list of Linux commands
 `time` - Measure how long a program takes to run
 `timedatctl` - Manage date and time settings, only if using systemd
 `touch` - Create one or more files
+`tracepath` - Display approximate travel times between routers from source to destination, showing MTU
+`tracepath6` - Same as `tracepath` but with IPv6
+`traceroute` - Display approximate travel times between routers from source to destination
+`traceroute6` - Same as `traceroute` but with IPv6
 `umount` - Unmount a filesystem
 `unlink` - Remove a file link
 `updatedb` - Update the file database for the `locate` command
+`uptime` - Show statistics about uptime
 `useradd` - Create a new user account
+`vmstat` - Show information about processes, memory, and more
 `w` - Prints information about the running system such as users, CPU load, and so on
 `wc` - Print the number of lines, words, and bytes in a file
 `wget` - Retrieve files from remote servers
