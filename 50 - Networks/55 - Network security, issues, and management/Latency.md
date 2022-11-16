@@ -1,0 +1,1 @@
+Latency is a [[Network performance metrics|network performance metric]] that indicates the time between a source sending a packet and the packet's destination receiving it. High latency means there is a long time between sending and receiving while low latency means a short time.
