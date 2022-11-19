@@ -1,0 +1,1 @@
+Server-side request forgery (SSRF) is a [[Web security vulnerability|web security vulnerability]] that allows an attacker to make a server-side application make requests to an unintended location.
