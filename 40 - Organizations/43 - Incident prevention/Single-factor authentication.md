@@ -1,0 +1,1 @@
+Single-factor authentication is a type of authentication that requires a single [[Authentication factors|authentication factor]] to prove identity.

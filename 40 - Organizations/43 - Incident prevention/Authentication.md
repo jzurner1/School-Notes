@@ -1,1 +1,1 @@
-Authentication is the process of determining whether someone or something is who or what they say they are.
+Authentication is the process of determining whether someone or something is who or what they say they are. It is done through [[Authentication factors|authentication factors]].

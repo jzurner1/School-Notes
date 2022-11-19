@@ -1,0 +1,1 @@
+A static code is a PIN, password, key, or other data value that does not change. They are not inherently more or less secure than passwords.

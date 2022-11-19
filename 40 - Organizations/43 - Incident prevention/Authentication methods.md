@@ -1,7 +1,7 @@
 There are a number of approaches used to authenticate users.
 
 # Multifactor
-Multifactor authentication (MFA) requires multiple factors to log in. This may mean:
+[[Multifactor authentication|Multifactor authentication]] (MFA) requires multiple factors to log in. This may mean:
 - Something you know, such as a password
 - Something you are, such as a fingerprint
 - Something you have, such as a smart card
