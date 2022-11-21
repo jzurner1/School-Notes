@@ -1,0 +1,3 @@
+Mandatory access control (MAC) is a type of [[Access control|access control]] where administrators assign security classifications/labels to each user and each resource. A user can only access a given resource if their labels are compatible. MAC is challenging to implement correctly but allows for high security. It was developed for military use but is common in other high-security environments.
+
+![[Pasted image 20221120223249.png]]
