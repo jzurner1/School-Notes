@@ -1,0 +1,1 @@
+A text-encoding system that consists of symbols used to control structure. The most common examples include [[HTML|HTML]] and [[XML|XML]].

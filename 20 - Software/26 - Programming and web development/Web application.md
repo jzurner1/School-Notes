@@ -1,0 +1,1 @@
+A web application is application software that can be accessed from a web browser.

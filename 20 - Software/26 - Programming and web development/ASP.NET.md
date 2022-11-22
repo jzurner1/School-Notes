@@ -1,0 +1,1 @@
+ASP.NET is an open-source [[Web application framework|web application framework]] created by Microsoft. It extends the .NET platform with tools and libraries specifically meant for building web applications.

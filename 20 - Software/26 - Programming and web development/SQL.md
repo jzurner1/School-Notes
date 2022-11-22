@@ -1,0 +1,1 @@
+Structured query language, a programming language for accessing databases.
