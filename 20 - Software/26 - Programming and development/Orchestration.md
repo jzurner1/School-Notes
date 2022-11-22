@@ -1,1 +1,0 @@
-The scheduling and monitoring of many different automations, basically automating the automation.
