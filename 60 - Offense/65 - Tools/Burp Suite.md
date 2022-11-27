@@ -1,0 +1,1 @@
+Burp Suite is a set of tools used for penetration testing web applications. It comes with many tools, even in the free community edition.
