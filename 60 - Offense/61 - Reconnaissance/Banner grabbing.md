@@ -1,0 +1,1 @@
+Banner grabbing is the process of sending a routine packet to a network service and seeing what information is returned. This may return software and protocol versions, among other information.
