@@ -1,4 +1,4 @@
-Denial of service, a type of attack that sends a target system a flood of data or requests that consume the target system's resources. Alternatively, some applications and operating systems crash when they receive specific strings of improperly formatted data, which can be used to take down a system. The attack often uses a spoofed IP address to conceal their identity.
+Denial of service is an overarching name for attacks that try to prevent accessing a site. It sends a target system a flood of data or requests that consume the target system's resources. Alternatively, some applications and operating systems crash when they receive specific strings of improperly formatted data, which can be used to take down a system. The attack often uses a spoofed IP address to conceal their identity.
 
 It is different than a DDoS attack.
 

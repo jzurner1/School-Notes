@@ -1,0 +1,1 @@
+MITB is a type of [[Man-in-the-middle|MITM/on-path]] attack where a trojan or other spyware infects a web browser, then either modifies the pages the user views or the actions the user takes. It can bypass strong network encryption by functioning within the browser itself and can be initiated whenever the user navigates to the desired site.

@@ -1,0 +1,1 @@
+Session replay is a type of [[Replay attack|replay attack]] that targets secure websites. Secure sites rely on session identifiers such as cookies or unique URL data to identify ongoing sessions. An attacker with a stolen session ID can take over an existing session without having login credentials.

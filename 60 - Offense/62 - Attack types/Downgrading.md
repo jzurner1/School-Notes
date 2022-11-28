@@ -1,0 +1,1 @@
+A type of [[Man-in-the-middle|MITM/on-path]] attack where a connection is tricked into downgrading to a weaker algorithm for backward compatibility. Some fall back to weak or no connection. This doesn't take control of the session by itself, but it weakens security for other attacks.

@@ -1,0 +1,1 @@
+MAC flooding is a type of [[MAC spoofing|MAC spoofing]], where many different MAC addresses are impersonated in order to overwrite a network switch's MAC table cache. This can be used for eavesdropping or redirection attacks.

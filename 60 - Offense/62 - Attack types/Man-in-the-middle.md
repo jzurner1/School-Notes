@@ -1,0 +1,3 @@
+MITM attacks, also known as on-path attacks, are a potent form of [[Eavesdropping|eavesdropping]]. An on-path attacker intercepts and relays traffic between hosts, impersonating each host in the eyes of the other. Each end of the conversation thinks that it is communicating directly, but in reality, the conversation is through the attacker.
+
+There are many ways to initiate MITM attacks, such as ARP cache poisoning.
