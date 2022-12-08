@@ -4,7 +4,7 @@ This lab contains an SQL injection vulnerability in the product category filte
 To solve the lab, display the database version string.
 
 # Process
-### The website
+## The website
 This website featured the names of a bunch of products as well as descriptions for them.  There wasn't anything particularly striking besides a few tabs that let you filter what products you wanted to look at. They were reflected in the URL as URL encoded strings, such as the "Food & Drink" category being reflected as `category=Food+%26+Drink`. They were also reflected on the page, with the category directly printed as the heading of the products section.
 
 ## Testing the URL
