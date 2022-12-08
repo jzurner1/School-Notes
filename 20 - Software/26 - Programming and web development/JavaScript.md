@@ -1,0 +1,1 @@
+JavaScript is a programming language designed for use on websites.
