@@ -1,0 +1,1 @@
+Server-side code is code that is run on a server, and the results are downloaded and displayed in the browser. Common examples include PHP, Python, Ruby, and ASP.NET.
