@@ -11,7 +11,7 @@ String concatenation is the process of combining multiple strings to make a sing
 Getting a substring means extracting a smaller portion of a string. It can be useful for letter-by-letter examination. The following substrings extract the value `de` from `abcdef`.
 - Oracle: `SUBSTR('abcdef', 4, 2)`
 - Microsoft: `SUBSTRING('abcdef', 4, 2)`
-- PostgreSQL: `SUBSTRING('abcdef', 4, 2)`
+- PostgreSQL: `SUBSTR('abcdef', 4, 2)` or `SUBSTRING('abcdef', 4, 2)`
 - MySQL: `SUBSTRING('abcdef', 4, 2)`
 
 # Comments

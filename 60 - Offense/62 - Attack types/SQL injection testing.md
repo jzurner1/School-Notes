@@ -1,4 +1,4 @@
-I am not too familiar with SQL, so to learn [[SQL injection|SQL injection]], I would like to mess around with my own database. This database is called `sakila` and it is premade.
+`I am not too familiar with SQL, so to learn [[SQL injection|SQL injection]], I would like to mess around with my own database. This database is called `sakila` and it is premade.
 
 The main table, `customer`, has a list of customers and their information:
 ![[Pasted image 20221116213544.png]]
