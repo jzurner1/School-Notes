@@ -1,0 +1,35 @@
+- Create a database: `create database <name>;`
+- List all databases: `show databases;`
+- Use a specific database: `use <database>;`
+- List all tables:
+	- Oracle: `SELECT * FROM all_tables;`
+	- Microsoft: `SELECT * FROM information_schema.tables;`
+	- PostgreSQL: `SELECT * FROM information_schema.tables;`
+	- MySQL: `SELECT * FROM information_schema.tables;`
+- Create a new table: `create table <table name>(values);`
+	- Example: `create table users(username varchar(100), password varchar(255), is_admin bool, register_date datetime);`
+- Create an auto-incrementing key for a table (as a column):
+	- Oracle:
+	- Microsoft:
+	- PostgreSQL: `CREATE TABLE table(id SERIAL PRIMARY KEY);`
+	- MySQL: `CREATE TABLE table(id int auto_increment, primary key(id));`
+- Print warnings: `show warnings;`
+- Delete a table: `drop table <table name>;`
+- Delete a database: `drop database <database name>;`
+- Print everything in a table: `SELECT * FROM <table name>;`
+- Add a row to a table: `INSERT INTO <table name>(columns) VALUES(values);`
+	- Example: `INSERT INTO users(username, password) VALUES('Bob', 'pass123')`
+- Print a specific table column: `SELECT <column name(s)> FROM <table name>`
+	- Example: `SELECT username, password FROM users;`
+- Print matching values: `SELECT * FROM <table name> WHERE value=value;`
+	- Example: `SELECT * FROM users WHERE username='Bob' AND password='pass123';`
+- Delete a row: `DELETE FROM <table name> WHERE value=value;`
+	- Example: `DELETE FROM users WHERE username='Bob';`
+- Update a row: `UPDATE <table name> SET <column> = value WHERE <column> = value;`
+	- Example: `UPDATE users SET password='pass321' WHERE username='Bob';`
+- Add a new column: `ALTER TABLE <table name> ADD <column> <value>;`
+	- Example: `ALTER TABLE users ADD address varchar(255);`
+- Edit the data type of a column: `ALTER TABLE <table name> MODIFY COLUMN <column name> <new value>;`
+	- Example: `ALTER TABLE users MODIFY COLUMN username varchar(255);`
+- Print a sorted table: `SELECT * FROM <table name> ORDER BY <field> <asc/desc>;`
+	- Example: `SELECT * FROM users ORDER BY username desc;`
