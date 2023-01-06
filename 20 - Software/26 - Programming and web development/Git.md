@@ -9,3 +9,4 @@ Some terms need to be understood before understanding Git:
 - **Local repository**: This contains each project file's history. It also uses the `.git` subdirectory. Project tree and commit information is stored as objects in the `.git/objects` directory with the `git commit` command; this data is called a snapshot. Each commit creates a new snapshot.
 - **Remote repository**: Typically a cloud-based location, this could also be another server on your local network. Common remote repositories include GitHub, GitLab, and more.
 
+![[Pasted image 20230105112623.png]]
