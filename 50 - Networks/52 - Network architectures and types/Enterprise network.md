@@ -1,0 +1,1 @@
+An enterprise network is a network created by a corporation for the purpose of allowing its employees to communicate.
