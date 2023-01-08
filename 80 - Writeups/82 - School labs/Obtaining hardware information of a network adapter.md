@@ -3,4 +3,4 @@ In this lab, you will learn to obtain hardware information of a network adapter.
 
 # Process
 1. Open PowerShell
-2. Enter `Get-NetAdapterHardwareInfo`
+2. Enter `Get-NetAdapterHardwareInfo` and press enter
