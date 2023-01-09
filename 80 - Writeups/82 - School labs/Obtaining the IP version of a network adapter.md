@@ -3,4 +3,4 @@ In this lab, you will learn to obtain the IP version of a network adapter. IPv4 
 
 # Process
 1. Open PowerShell
-2. Enter `(Get-NetIPInterface) | Select-Object InterfaceAlias,AddressFamily` and press enter
+2. Type `(Get-NetIPInterface) | Select-Object InterfaceAlias,AddressFamily` and press enter

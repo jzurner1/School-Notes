@@ -3,5 +3,5 @@ In this lab, you will learn to obtain information about different IP (Internet P
 
 # Process
 1. Open PowerShell
-2. Enter `Get-NetIPv4Protocol` and press enter
-3. Enter `Get-NetIPv6Protocol` and press enter
+2. Type `Get-NetIPv4Protocol` and press enter
+3. Type `Get-NetIPv6Protocol` and press enter
