@@ -1,0 +1,1 @@
+An Ethernet LAN is one of two types of common LANs, the other being [[WLAN|wireless LANs]]. Ethernet LANs use cables for the [[Ethernet links|links]] between network [[50 - Networks/50 - Other network topics/Node|nodes]], so they are also known as wired LANs.
