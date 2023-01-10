@@ -1,4 +1,6 @@
-Ethernet is a family of wired computer networking technologies commonly used in LANs, MANs, and WANs. It allows devices to communicate using a protocol.
+Related pages: [[Ethernet links|Ethernet links]], [[Ethernet LAN|Ethernet LAN]]
+
+**Ethernet is a family of wired computer networking technologies commonly used in LANs, MANs, and WANs.** It allows devices to communicate using a protocol.
 
 It was designed in the early 80's and its goal is to let devices communicate in a local area such as a home or a building. It is a wired system that started with coaxial cables and has moved on to twisted-pair cables and fiber-optic cables.
 
