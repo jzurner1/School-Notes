@@ -1,0 +1,1 @@
+Distribution attacks occur somewhere on the supply chain. For example, a device may have a backdoor installed on it before it is even plugged into an organization's systems.
