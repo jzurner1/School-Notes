@@ -1,4 +1,8 @@
-A [[network device|networking device]] that lives at layer 1. It receives bits on one port and retransmits them on all the other ports. Hubs are usually connected to other network devices with UTP cabling but some early versions supported fiber-optic connections.
+A [[Layer 1 device|layer 1 device]] that functions as a concentrator/repeater
+
+- Receives bits on one port and retransmits them on all the other ports
+- Hubs Usually connected to other network devices with UTP cabling
+
 
 There are three basic types of hubs:
 - Passive: Received bits are not amplified (electrically regenerated)

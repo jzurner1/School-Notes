@@ -1,0 +1,3 @@
+A layer 2 device is a device that functions at the [[Data link layer|data link layer]] of the OSI model. These devices work off of layer 2 information, usually the [[MAC address|MAC address]] (also known as the Ethernet address or layer 2 address).
+
+For example, a [[Layer 2 switch|layer 2 switch]] can redirect traffic based on the MAC address. [[Wireless access point|Wireless access points]] only communicate with local devices using a MAC address.

@@ -1,4 +1,8 @@
-A wireless access point is an [[access point|access point]] that allows devices to connect to it without a physical connection. It differs from a wireless router because it can interconnect a wired LAN with a WLAN, but not two separate networks such as the ISP's network and an internal private network. A WAP needs at least one antenna.
+A wireless access point is a [[Layer 2 device|layer 2 device]] that can redirect traffic based on a [[MAC address|MAC address]].
+
+- Type of [[access point|access point]] that allows devices to connect to it without a physical connection
+- Differs from a wireless router because it can interconnect a wired LAN with a wireless LAN, but not two separate networks such as the ISP's network and an internal private network
+- Needs at least one antenna
 
 ![[Pasted image 20220917153952.png]]
 
