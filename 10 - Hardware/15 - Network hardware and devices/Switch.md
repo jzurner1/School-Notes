@@ -1,0 +1,3 @@
+A switch allows computers to communicate on a local network. They contain a number of RJ45 jacks that allow devices to connect directly through Ethernet cords. 
+
+Unlike a [[hub|hub]], a switch has something called a CAM (content addressable memory) table that allows it to remember where devices are located. It will associate each device's [[MAC address|MAC address]] with the switch port that they are plugged into.
