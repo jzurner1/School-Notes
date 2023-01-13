@@ -1,4 +1,4 @@
-The ethernet data-link protocol is a standard used to communicate through [[ethernet|ethernet]].
+The ethernet data-link protocol is a [[Data-link protocols|data-link protocol]] used to communicate through [[ethernet|ethernet]].
 
 ### Format
 The protocol defines the Ethernet frame as having an Ethernet header in the front, the encapsulated data in the middle, and an Ethernet trailer at the end.
