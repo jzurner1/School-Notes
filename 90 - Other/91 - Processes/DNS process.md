@@ -1,5 +1,4 @@
 ## Step 1: Local
-
 1. On your computer, you decide to browse to a website, such as `xyz.com`
 2. You enter the URL into a web browser and press enter
 3. Your computer checks your browser's local cache, the computer's local cache, and the local configuration file
