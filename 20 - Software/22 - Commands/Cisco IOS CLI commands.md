@@ -1,0 +1,15 @@
+- `?` - Show help for all available commands
+- `<command> ?` - Describe all first parameter options for the command`
+- `<com>?` - List all commands that start with `<com>`
+- `configure terminal` - Enter configuration mode (must be in enabled mode)
+- `debug` - Similar to `show` but shows a live version
+- `disable` - Switch to user EXEC mode
+- `enable` - Switch to enabled mode, also known as privileged EXEC mode
+- `hostname <name>` - Change the device's name; must be in configuration mode
+- `interface <interface type and number>` - Enter configuration mode for an interface
+- `ip address <ip address> <mask>` - Assign an IP address and subnet mask
+- `ip default-gateway <ip address>` - Set a device's default gateway
+- `reload` - Reboot a device (must be in enabled mode)
+- `show` - Combined with an option, gives the status of a certain feature or object
+- `show mac address-table` - Show the MAC address table
+- `show running-config` - Show the device's current configuration
