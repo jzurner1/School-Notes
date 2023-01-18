@@ -1,4 +1,4 @@
-Recon is a preliminary survey to gather information on a target. It is the first step in getting a foothold on a system.
+Recon is a preliminary survey to gather information on a target. It is the first step in getting a foothold on a system. Also known as [[Footprinting|footprinting]].
 
 # Passive recon
 Passive recon relies on publicly available knowledge that can be accessed without directly engaging with the target.
