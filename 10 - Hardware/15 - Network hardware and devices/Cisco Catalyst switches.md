@@ -1,5 +1,7 @@
 Cisco Catalyst switches are Cisco's brand of LAN switches. Within this brand, there are a number of switch series/families, where each series includies several specific models of switches that have similar features, prices, performance, and internal components.
 
+Cisco Catalyst switches are ready out of the box. They just have to be plugged in, powered on, and connected to switches.
+
 # Port naming scheme
 Each port has both an interface type and interface number.
 
