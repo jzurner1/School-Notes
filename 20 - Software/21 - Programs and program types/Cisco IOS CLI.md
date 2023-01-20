@@ -18,3 +18,19 @@ If the command prompt lists the hostname followed by a `>` (such as `user>`), it
 There are actually multiple configuration modes, accessible with different commands:
 
 ![[Pasted image 20230115204658.png]]
+
+## Security
+By default, anyone can connect to the console port, change modes, or make configuration changes without any security.
+
+Most setups use three passwords without any usernames. There is one password for console users (called the **console password**) and another password for [[Telnet|Telnet]] users (called the **vty password**). The third password is used to go into enable mode; this is called the **enable password**. The image below shows the password system:
+![[Pasted image 20230119211010.png]]
+To set a password, use the following checklist:
+1. Set the enable password with `enable secret <value>`
+2. Set the console password with:
+	1. `line con 0` to enter console configuration mode
+	2. `password <value>` to set the value of the console password
+	3. `login` to enable console password security
+3. Set the Telnet (vty) password with:
+	1. `line vty 0 15` to enter vty configuration mode for all 16 vty lines (0 - 15)
+	2. `password <value>` to set the value of the Telnet password
+	3. `login` to enable Telnet password security
