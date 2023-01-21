@@ -20,6 +20,7 @@ Commands for the [[Cisco IOS CLI|Cisco IOS CLI]]
 - `password <value>` - Set a password; must use `login` beforehand; not for enable password
 - `reload` - Reboot a device (must be in enabled mode)
 - `show` - Combined with an option, gives the status of a certain feature or object
+- `show history` - List the commands currently held in the history buffer
 - `show interfaces <name> counters` - Show statistics about incoming and outgoing frames
 - `show interfaces status` - Show the status of each interface
 - `show mac address-table` - Show the MAC address table
