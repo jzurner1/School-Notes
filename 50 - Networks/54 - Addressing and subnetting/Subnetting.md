@@ -1,4 +1,4 @@
-Subnetting is the process of dividing a single large network into multiple smaller networks known as subnets. This helps relieve network congestion and improve efficiency in utilization of the relatively small address space available in IPv4.
+Subnetting is the process of dividing a single large network into multiple smaller networks known as [[subnet|subnets]]. This helps relieve network congestion and improve efficiency in utilization of the relatively small address space available in IPv4.
 
 A subnet mask is used to represent which parts of the address are for the network address and which parts are for the host address.
 
