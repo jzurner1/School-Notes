@@ -1,4 +1,4 @@
-A tool used to explore networks, perform security scans, create network audits, and find open ports on remote machines. It can scan for live hosts, operating systems, packet filters, and open ports.
+Nmap (network mapper) is a security [[Scanning|scanner]] for network exploration. It allows you to discover [[Host (networking)|hosts]], [[Port (network)|ports]], and services on a computer network.
 
 # Syntax and help
 The basic syntax for an nmap scan is `nmap [scan type] [options] {target}`.

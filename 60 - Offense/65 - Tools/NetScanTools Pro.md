@@ -1,0 +1,1 @@
+NetScanTools Pro is an investigation tool that allows you to troubleshoot, monitor, discover, and detect devices on your network. It can easily be used to gather information such as users, IP addresses, ports, vulnerabilities, hostnames, domain names, and other information.

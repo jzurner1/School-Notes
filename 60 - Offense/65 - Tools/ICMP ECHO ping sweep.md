@@ -1,0 +1,5 @@
+- Also known as ICMP sweep
+- Used to determine the range of IP addresses that map to live hosts
+- If a host is active, they will respond with an ICMP ECHO reply
+- Sweep version of [[ICMP ECHO ping scan|ICMP ECHO ping scan]]
+- Basic nmap syntax is `nmap -sn -PE <target range>`
