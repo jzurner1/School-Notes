@@ -11,3 +11,5 @@ The writeups section is new, but it is where I hope to post any writeups I make 
 12/19/2022 - I'm in the middle of moving so updates have been slow. I'll get back into it soon, probably after the holidays.
 
 01/14/2023 - 100 commits!
+
+01/21/2023 - My semester has started and its heavier than expected, so there will be a lot of commits
