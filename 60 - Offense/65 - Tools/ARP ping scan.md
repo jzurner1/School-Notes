@@ -1,7 +1,7 @@
 - ARP packets are sent to discover all active devices in the IPv4 range
 - For other scans to work, they may need the MAC address, so the ARP ping scan is used to obtain it
 - If a response is received, the host is active; if not, it may be inactive but unsure
-- [[Nmap|Nmap]] uses this as the default ping scan; to use another, use `--disable-arp-ping`
+- [[nmap|Nmap]] uses this as the default ping scan; to use another, use `--disable-arp-ping`
 - Basic nmap syntax is `nmap -sn -PR <target(s)>`
 
 Advantages:
