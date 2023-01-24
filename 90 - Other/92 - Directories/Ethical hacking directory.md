@@ -14,6 +14,11 @@ Relevant pages:
 	[[Scanning methods]]
 	[[Banner grabbing]]
 [[Enumeration]]
+[[Vulnerability research]]
+	[[Vulnerability assessment]]
+	[[Vulnerability scanner]]
+	[[Vulnerability scoring systems and databases]]
+	[[Vulnerability management life cycle]]
 
 Relevant labs:
 [[Ethical Hacking Module 2 Lab 1 - Perform search engine footprinting]]
