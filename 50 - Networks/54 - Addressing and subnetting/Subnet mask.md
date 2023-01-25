@@ -19,5 +19,3 @@ A subnet mask is used with an IPv4 address to indicate where the network section
 | Class E       | 240 - 255                  |               |             |
 
 By knowing the first octet of an IPv4 address, you can identify the subnet mask.
-
-A prefix mask is a form of
