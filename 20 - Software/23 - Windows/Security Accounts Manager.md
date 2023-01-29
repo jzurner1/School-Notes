@@ -1,0 +1,1 @@
+[[Windows|Windows]] uses the Security Accounts Manager (SAM) database to manage user accounts and passwords in a [[Hashing|hashed]] format. The SAM database is implemented as a [[Windows registry|registry file]].
