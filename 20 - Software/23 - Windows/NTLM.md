@@ -1,4 +1,6 @@
-New Technology LAN Manager (NTLM) is a suite of security protocols offered by Microsoft to authenticate user identities and protect the integrity and confidentiality of their activity. It uses a challenge-response mechanism to authenticate users.
+New Technology LAN manager is a default authentication scheme that performs authentication using a challenge/response strategy (as detailed below).
+
+NTLM consists of two protocols, NTLM authentication protocol and LAN manager (LM) authentication protocol. Each of these protocols uses a different hash methodology to store user's passwords.
 
 ## Process
 The NTLM authentication process usually follows the following step-by-step process:
