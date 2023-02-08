@@ -1,1 +1,0 @@
-JavaScript is a programming language designed for use on websites. It allows you to implement complex features on web pages. Any website that has more than just static information probably uses JavaScript. It is one of three main web application technologies, the other two of which are [[HTML|HTML]] and [[CSS|CSS]].
