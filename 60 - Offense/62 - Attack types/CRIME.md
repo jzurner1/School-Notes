@@ -1,0 +1,1 @@
+CRIME, short for Compression Ratio Info-leak Made Easy, is a vulnerability in [[HTTPS|HTTPS]] and SPDY protocols that utilize compression. It can result in leaking the content of web cookies such as session tokens.

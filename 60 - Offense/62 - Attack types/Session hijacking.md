@@ -5,3 +5,4 @@ Session hijacking exploits a session-token generation mechanism or token securit
 Session hijacking can be a precursor to various types of attacks, including [[On-path attack|on-path/MITM]] attacks and [[DoS|DoS]] attacks.
 
 ![[Pasted image 20230210211511.png]]
+
