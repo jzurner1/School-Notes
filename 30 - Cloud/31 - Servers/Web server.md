@@ -1,5 +1,17 @@
 A web server is a server built to host a website. Most web servers are run on Linux, specifically a Linux server.
 
+# Components
+Web servers consist of the following components:
+
+### Document root
+The document root is one of the root file directories of the web server that stores critical HTML files related to the web pages of a domain name, which will be sent in response to requests.
+
+For example, if the requested URL is `www.target.com`, the web server's root directory might be called `/webroot` located at `/admin/web/webroot`. All of the subdirectories will be accessible within the website; accessing the webpage `www.target.com/shop/clothing` will access the filepath `/admin/web/webroot/shop/clothing`.
+
+### Server root
+The server root is the top-level root directory under the directory tree in which the server's configuration and error, executable, and log files are stored.
+
+
 # Programs
 There are a number of programs that can be used to build a Linux web server.
 

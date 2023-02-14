@@ -1,0 +1,1 @@
+lighttpd is an open-source [[web server|web server]] optimized for speed-critical environments.
