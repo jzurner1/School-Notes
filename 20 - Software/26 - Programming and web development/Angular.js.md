@@ -1,0 +1,1 @@
+Angular is a discontinued [[JavaScript|JavaScript]]-based web [[Framework|framework]].

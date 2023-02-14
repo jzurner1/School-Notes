@@ -1,0 +1,1 @@
+The presentation portion of a piece of software, usually a [[Web application|web application]]. It covers the [[backend|backend]].
