@@ -1,5 +1,6 @@
 Cross-site scripting (XSS) is a type of injection that allows an attacker to compromise the interactions that users have with an application.
 
+# Types
 ### Reflected XSS
 Reflected XSS is the simplest version of XSS. It shows up when an application receives data in an HTTP request and includes that data within the immediate response in an unsafe way.
 
