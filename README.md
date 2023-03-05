@@ -13,3 +13,5 @@ The writeups section is new, but it is where I hope to post any writeups I make 
 01/14/2023 - 100 commits!
 
 02/23/2023 - I hit 1,000 entries at some point, but I don't know when
+
+03/04/2023 - Finished all the work for my first 8-week semester, the next one starts soon
