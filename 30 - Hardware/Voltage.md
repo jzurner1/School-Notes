@@ -1,1 +1,0 @@
-A measure of the pressure pushing electrons, measured in volts. A power supply's output is measured this way.
