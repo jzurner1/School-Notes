@@ -1,6 +1,0 @@
-Partitioning is the first step in preparing a hard drive for use. It means dividing the drive into [[Partition|partitions]] so that the computer system sees the hard drive as more than one drive, providing advantages such as more security or organization. The original use for partitioning was to make it easier to run multiple operating systems from a single drive. This is still a good reason for it today. Partition limitations are decided by the filesystem being used.
-
-# Cluster size
-Another good reason for partitioning is to change the minimum cluster size. A cluster is the minimum amount of space allocated for a file. The more overall storage a partition has, the larger the clusters are. Ideally, clusters would be as small as possible to store data more efficiently.
-
-For example, in NTFS partitioning, partitions from 0 to 16TB have a minimum cluster size of 4kB while partitions from 128 to 256TB have a minimum cluster size of 64kB. Even files of one byte would take up 64kB on the larger systems.

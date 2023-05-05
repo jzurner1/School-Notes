@@ -1,1 +1,0 @@
-A partition is a self-contained section within a [[Storage|storage drive]] that the operating system treats as a separate drive. It is useful for organizing data such as segmenting operating system data from user data.

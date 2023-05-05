@@ -1,1 +1,0 @@
-Also known as next generation form factor (NGFF), M.2 is a type of expansion slot used for internal expansion cards such as [[Solid-state drive|SSDs]]. It is most common in laptops where it is replacing SATA.

@@ -1,1 +1,0 @@
-Small computer system interface (SCSI) is one of the two major [[Hard drive interface|hard drive interfaces]], where an interface is a set of rules that governs communication between a device and a hard drive. The other type is IDE.
