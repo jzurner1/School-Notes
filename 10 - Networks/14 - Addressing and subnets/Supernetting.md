@@ -1,0 +1,1 @@
+Supernetting is the process of combining multiple smaller networks into a single large network. This is used to simplify or summarize network routing decisions to minimize overhead processing. It is the opposite of subnetting.

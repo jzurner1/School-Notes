@@ -1,0 +1,1 @@
+An alternative to cables and ports, wireless connectivity takes advantage of technologies such as infrared, radio, Bluetooth, and near-field communnications to remove the need for wires.
