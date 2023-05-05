@@ -1,1 +1,0 @@
-This act punishes the interception of wire and electronic communications. It also punishes unauthorized access to or alteration of electronically stored information as well as effords to prevent authorized access to that information.

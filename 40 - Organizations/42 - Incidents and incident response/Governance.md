@@ -1,1 +1,0 @@
-A formal, policy-driven practice designed to align operational functions such as security with overall business strategy.

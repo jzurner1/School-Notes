@@ -1,1 +1,0 @@
-This act applies to internet thefts of copyrighted property including computer programs and other works. It is very applicable for software piracy and similar crimes.

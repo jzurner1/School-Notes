@@ -1,1 +1,0 @@
-In high-security environments, many networked devices are needed to help control and monitor physical access. Physical access-control devices are ones that physically prevent access. They include card readers, turnstiles, magnetic doors, and so on.

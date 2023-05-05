@@ -1,3 +1,0 @@
-Information security is the protection/safeguarding of [[information|information]] and information systems that use, store, and transmit information from unauthorized access, disclosure, alteration, and destruction.
-
-Due to the potentially confidential nature of information, it is considered a critical asset that organizations must secure. If it falls into the wrong hands, the organization may suffer losses in terms of finances, reputation, or something else.

@@ -1,1 +1,0 @@
-Role-based access control (RBAC) is a type of [[Access control|acce]] similar to MAC in that administrators define permissions, but instead of clearance levels, users are assigned to one or more roles, for example representing job functions. Each role has a list of permissions. RBAC is common in commercial applications and military systems.

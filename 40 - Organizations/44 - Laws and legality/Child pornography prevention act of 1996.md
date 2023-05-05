@@ -1,1 +1,0 @@
-This law criminalizes the production, distribution, and reception of electronic images featuring underage children. It includes real images and altered images.

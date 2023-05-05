@@ -1,1 +1,0 @@
-In technical writing, a persona is a representation of how the target audience will make use of how a product will be documented or developed. It is usually a real person chosen to represent a population as accurately as possible.

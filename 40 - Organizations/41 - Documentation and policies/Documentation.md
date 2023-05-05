@@ -1,1 +1,0 @@
-Documentation is any document, contract, or policy that is used to keep record of an organization's actions and decisions.

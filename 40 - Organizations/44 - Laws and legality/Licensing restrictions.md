@@ -1,1 +1,0 @@
-Some equipment and software requires training for proper licensing and use.

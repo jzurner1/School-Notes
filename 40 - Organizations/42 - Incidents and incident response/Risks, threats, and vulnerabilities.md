@@ -1,5 +1,0 @@
-These three terms are used to describe security challenges. Casually they can be used interchangeable, but in security, they represent different concepts.
-
-- **Risk** is the chance of harm coming to an asset. Risk measurement incorporates any combination of the likelihood of harm, the impact it will have on the organization, and the cost of repairing damage.
-- A **threat** is anything that can cause harm to an asset. This includes attacks, malfunctions, and natural disasters. The mechanism of a particular threat is called a **threat vector** or an **attack vector**, which can include malware and fraudulent email messages.
-- A **vulnerability** is any weakness the asset has against threats. This can be found in hardware, software, or organizationally. Most attacks try to exploit vulnerabilities.

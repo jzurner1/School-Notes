@@ -1,3 +1,0 @@
-Access control is a data security process that enables organizations to manage who is authorized to access certain data and resources.
-
-The most common types of access control are [[Attribute-based access control|attribute-based access control]], [[Discretionary access control|discretionary access control]], [[Mandatory access control|mandatory access control]], [[Role-based access control|role-based access control]], and [[Rule-based access control|rule-based access control]].

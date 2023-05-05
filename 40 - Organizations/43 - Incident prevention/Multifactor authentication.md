@@ -1,3 +1,0 @@
-[[Single-factor authentication|Single-factor authentication]] is simply and commonly used, but it is easy to bypass. That's why multiple [[authentication factors|authentication factors]] are more secure.
-
-Multifactor authentication (MFA) requires the use of two or more authentication factors to login to a system. These factors should be different categories, such as a password (something you know) and a keycard (something you have).

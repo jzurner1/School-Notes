@@ -1,1 +1,0 @@
-The computer fraud and abuse act (CFAA) was passed in the mid-1980's and has continuously been amended. The law was passed to combat crimes involving computer. It prohibits transmitting programs or codes that damage computer networks as well as gaining access to a computer for fraudulent purposes.
