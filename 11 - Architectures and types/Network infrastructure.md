@@ -1,0 +1,1 @@
+The hardware and software resources of an entire network that enable connectivity, communication, operations and management of an enterprise network. It also provides the communication path and services between users, processes, applications, services and external networks/the internet.

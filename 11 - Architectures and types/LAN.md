@@ -1,0 +1,1 @@
+Local area network, a network that exists within a small local area such as a building. Some common LAN technologies include ethernet and wireless networks.

@@ -1,0 +1,1 @@
+A collection of networked devices that can receive broadcast traffic from each other.

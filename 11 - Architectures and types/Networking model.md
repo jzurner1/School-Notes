@@ -1,0 +1,3 @@
+A networking model, also known as a networking architecture, is a set of documents that collectively define everything that must happen for a computer network to function. Individually, the documents describe one small function required for the network. Some of these documents define a protocol while others define physical requirements.
+
+Common models include the [[OSI Model|OSI model]] and the [[TCP IP Stack|TCP/IP model]].

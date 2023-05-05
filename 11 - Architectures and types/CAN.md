@@ -1,0 +1,1 @@
+A campus area network is a moderately sized network used for places such as campuses or business parks. It generally works by putting LANs in separate buildings and connecting them on a larger scale.
