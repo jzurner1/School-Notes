@@ -1,0 +1,1 @@
+The operating system kernel is the central part of an OS. It is the connection between the hardware and the application being used.

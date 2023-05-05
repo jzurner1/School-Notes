@@ -1,0 +1,1 @@
+The set of things that a particular CPU has been designed to do; an [[Instruction|Instruction]] is just one of the things that a CPU can do within that set.

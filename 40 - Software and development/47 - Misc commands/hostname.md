@@ -1,0 +1,1 @@
+A command used on both Windows and Linux machines. On Windows, `hostname` can be used to display the computer's name. On Linux, `hostname` can be used to change the computer's name or domain name of the system.
