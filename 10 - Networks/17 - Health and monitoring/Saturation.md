@@ -1,0 +1,1 @@
+Network saturation, also called bandwidth saturation or congestion, is a [[Network performance metrics|network performance metric]] that occurs when network traffic exceeds the capacity.
