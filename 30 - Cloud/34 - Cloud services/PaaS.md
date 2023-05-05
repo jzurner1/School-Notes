@@ -1,1 +1,0 @@
-Platform as a service; provides platforms on which applications or software can be developed, usually web-based applications. Intended for companies that are developing applications and want to focus on creating the software without having to worry about the servers and infrastructure being used.

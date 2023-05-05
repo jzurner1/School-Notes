@@ -1,1 +1,0 @@
-A virtual network component that allows virtual servers located on the same physical server to be logically separated into different VLANs.

@@ -1,3 +1,0 @@
-Public cloud services are services on the cloud that interact with devices on public networks such as the internet and possibly other public clouds. The three largest public cloud providers are AWS, Azure, and Google Cloud.
-
-A public cloud is best for organizations that want scalability, reduced costs, a complex network, and lacks in-house administrative personnel trained in cloud technologies. Advantages include lower infrastructure, maintenance and administrative costs, greater hardware efficiency, lower implementation times, and availability of short-term storage.

@@ -1,1 +1,0 @@
-There are three types of cloud storage: block, file, and object.

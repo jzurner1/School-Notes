@@ -1,1 +1,0 @@
-The fact that a cloud solution can scale as needed based on demand. It is a compelling reason to switch to cloud services. You don't have to worry as much about infrastructure failing under a large load and you don't have to worry about overprovisioned resources when demand is low.

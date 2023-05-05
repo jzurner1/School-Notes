@@ -1,1 +1,0 @@
-In virtual machines, the host is the physical hardware that "hosts" all of the virtual hardware.

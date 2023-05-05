@@ -1,3 +1,0 @@
-A device that provides IP addresses through the DHCP protocol. It communicates with DHCP clients and provides them with an IP address.
-
-The most popular Linux DHCP server package is called DHCPd and it comes included in most Linux server distributions. Once it is up and running on a server, you will need to tell your Linux clients to use it to obtain their network addresses with a DHCP client software package. The three most popular packages for this are dhclient, dhcpcd, and pump.

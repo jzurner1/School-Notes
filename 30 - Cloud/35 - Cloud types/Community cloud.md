@@ -1,3 +1,0 @@
-Community cloud services are cloud services that are used by individuals, companies, or entities with similar interests. An example of this is cloud.gov, which provides cloud services to the U.S. Government.
-
-A community cloud is best for organizations that want to increase cross-organizational or collaborative processes when in-house implementation is not possible due to conditions such as long distances, fluctuating resource needs, or resource limitations.

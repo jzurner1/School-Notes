@@ -1,3 +1,0 @@
-Escaping is a vulnerability where an attacker can break out of a [[Virtual machine|virtual machine]] and gain access to the host system, including the operating system and other virtual machines.
-
-Escaping is done by exploiting a vulnerability in the virtual machine software, such as privilege escalation or memory management issues. These vulnerabilities are often updated quickly, so it is important to keep virtual machines up to date.

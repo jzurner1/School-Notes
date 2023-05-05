@@ -1,1 +1,0 @@
-The cloud is the term for an on-demand computer accessible through the internet. It may be used for storage  computing power, or other reasons. The four main types of clouds are public, private, hybrid, and community.

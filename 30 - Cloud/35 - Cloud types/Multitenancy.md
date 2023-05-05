@@ -1,1 +1,0 @@
-The fact that the physical servers in public cloud infrastructure are hosting workloads for different customers. This implies that your virtual machines could be hosted on the same physical sever as a competitor. It is a concern for switching to public cloud because you have to trust that the host has done a good job setting up the security for the VMs.

@@ -1,1 +1,0 @@
-Software as a service; providing software to a client over the internet. The details of the servers are hidden from the customer and the customer's experience is similar to the experience of a web-based application.

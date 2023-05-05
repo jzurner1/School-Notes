@@ -1,1 +1,0 @@
-A web service is any piece of software that is available over the internet and uses a standardized format such as XML or JSON for the request and response of an API interaction. It is not tied to any one operating system or programming language.
