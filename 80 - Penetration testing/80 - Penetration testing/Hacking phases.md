@@ -1,0 +1,7 @@
+In general, there are five phases of hacking.
+
+- **Reconnaissance**: This is the preparatory phase in which an attacker gathers as much information as possible about the target. The target range may include the target organization's clients, employees, operations, network, and systems.
+- **Scanning**: This phase immediately precedes the attack. The attacker uses the details gathered during recon to scan the network for specific information. This is sometimes considered in the same phase as recon, but it may be different in that scanning is usually more in-depth.
+- **Gaining access**: After identifying vulnerabilities, attackers can use them to gain access to the target system. The odds of actually succeeding depend on a number of factors including the amount of information gathered, the preparation of the victim, and the skill level of the attacker.
+- **Maintaining access**: This is the phase where the attacker tries to retain ownership of the system. Once they gain sufficient access, they can choose to keep a low profile and continue their exploitation.
+- **Clearing tracks**: Once an attacker has finished, its important that they erase the evidence of their actions. This is one of the most important tasks and one of the hardest to complete.
