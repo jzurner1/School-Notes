@@ -1,1 +1,0 @@
-ASCII is a type of data formatting. It exists at layer 6 of the OSI model, which is concerned with data formatting and encryption.

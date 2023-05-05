@@ -1,1 +1,0 @@
-Information is [[data|data]] put into context.

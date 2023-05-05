@@ -1,1 +1,0 @@
-A fact or set of facts about an object, idea, place, person, etc. represented in the form of numbers, measurements, words, descriptions, or observations

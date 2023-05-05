@@ -1,1 +1,0 @@
-[[protocol data unit|PDU]] that exists at the data link layer of the OSI model.

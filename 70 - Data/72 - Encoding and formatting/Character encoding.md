@@ -1,1 +1,0 @@
-An [[encoding|encoding]] practice; the process of assigning numbers to graphical characters, specifically bits to alphanumeric characters.
