@@ -1,1 +1,0 @@
-A node is an electronic device that is attached to a network and is capable of creating, receiving, or transmitting information over a communication channel.

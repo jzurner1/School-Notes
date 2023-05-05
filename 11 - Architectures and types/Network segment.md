@@ -1,1 +1,0 @@
-A group of computers connected using a shared medium such as an Ethernet switch or WiFi access point. Unofficial building block os a network.

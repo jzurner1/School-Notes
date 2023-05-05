@@ -1,1 +1,0 @@
-A metropolitan area network is a network that connects multiple locations throughout a city.

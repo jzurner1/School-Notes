@@ -1,1 +1,0 @@
-A storage area network is any network built with the express purpose of transmitting stored data. It is traditionally very high speed and specialized to store massive amounts of data and make the data available for users. It is an alternative to a NAS, but a NAS is traditionally for smaller virtual servers.

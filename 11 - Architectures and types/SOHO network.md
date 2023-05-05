@@ -1,1 +1,0 @@
-A SOHO network, short for small office/home office, usually involves between one and ten network clients. It is a type of LAN meant for small businesses and operations.

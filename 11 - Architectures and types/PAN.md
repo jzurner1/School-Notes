@@ -1,1 +1,0 @@
-A personal area network is a small network built for a couple of devices within a couple of meters. This may mean a phone and a computer with a USB cord or a phone and a car with bluetooth.
