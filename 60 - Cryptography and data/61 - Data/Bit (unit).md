@@ -1,0 +1,1 @@
+A bit is a single digit of binary, either a 1 or a 0. It is the smallest [[Units of information|unit of information]] in computing.

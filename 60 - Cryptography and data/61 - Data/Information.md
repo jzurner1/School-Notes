@@ -1,0 +1,1 @@
+Information is [[Data|Data]] put into context.

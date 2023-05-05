@@ -1,0 +1,1 @@
+[[Protocol data unit|PDU]] that exists at the network layer of the OSI model. While any PDU can be called packets at any layer of the model, this is just a generalization and they specifically exist on the network layer.

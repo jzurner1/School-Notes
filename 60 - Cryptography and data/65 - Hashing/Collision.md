@@ -1,0 +1,1 @@
+A collision is when two pieces of data have the same [[Hashing|hash]] value.
