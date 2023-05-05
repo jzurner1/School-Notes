@@ -1,0 +1,1 @@
+The physical part of digital devices is the hardware. This can include the device itself or parts of the device.

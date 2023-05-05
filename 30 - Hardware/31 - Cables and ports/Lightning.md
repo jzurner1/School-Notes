@@ -1,0 +1,1 @@
+Lightning is a type of [[Multipurpose ports|cable/port]] developed by Apple. It is an 8-pin multipurpose port that is also reversible and can carry power and data.

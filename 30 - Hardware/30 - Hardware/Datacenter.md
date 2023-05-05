@@ -1,0 +1,1 @@
+A facility that provides shared access to applications and data

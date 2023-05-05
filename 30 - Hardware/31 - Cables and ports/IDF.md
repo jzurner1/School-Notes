@@ -1,0 +1,1 @@
+Intermediate distribution frames are free-standing or wall-mounted racks for managing and interconnecting [[Cable|cables]] between end user and the MDF.
