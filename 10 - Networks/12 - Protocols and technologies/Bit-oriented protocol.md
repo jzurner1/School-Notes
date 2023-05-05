@@ -1,0 +1,1 @@
+A bit-oriented protocol is a type of protocol where frames are viewed as a collection of bits as opposed to representing written characters. It is also called bit stuffing.

@@ -1,0 +1,1 @@
+A DHCP reservation is a static mapping of an IP address to a specific  MAC address.

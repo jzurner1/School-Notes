@@ -1,0 +1,1 @@
+Remote desktop protocol is a Microsoft protocol that allows a user to view and control the desktop of a remote computer. It uses both TCP and UDP, both on port 3389.

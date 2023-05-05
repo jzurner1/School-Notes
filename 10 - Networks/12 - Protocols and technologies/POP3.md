@@ -1,0 +1,1 @@
+Post office protocol version 3 is a protocol that retrieves email from an email server. It uses TCP port 110. The secure version is POP3 over SSL.

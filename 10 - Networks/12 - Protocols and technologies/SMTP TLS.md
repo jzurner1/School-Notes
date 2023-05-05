@@ -1,0 +1,1 @@
+Secure mail transfer protocol transfer layer security is a protocol that uses TCP port 465. It is the secure version of SMTP.

@@ -1,0 +1,1 @@
+Flow control is the process of managing the rate of data transmissions between two network nodes to prevent a fast sender from overwhelming a slow receiver.

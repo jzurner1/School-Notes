@@ -1,0 +1,1 @@
+A set of rules that govern how communication will occur between two devices.
