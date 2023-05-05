@@ -1,1 +1,0 @@
-Storage is a way to store data. The main methods are with [[Hardware|hardware]] such as a hard drive, SSD, cloud storage, or external storage such as USB sticks. It connects to the [[Motherboard|motherboard]].

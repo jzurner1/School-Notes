@@ -1,3 +1,0 @@
-An input/output address, or port address, enables a device and a [[CPU|processor]] to exchange data. They act as unique identification numbers. The device sends data through the processor to the appropriate device through the same I/O address. I/O addresses are just used for the processor to distinguish among devices that it communicates with.
-
-I/O addresses are in hexadecimal format from 0000 to FFFF. Some outputs range from 00000000 to FFFFFFFF.

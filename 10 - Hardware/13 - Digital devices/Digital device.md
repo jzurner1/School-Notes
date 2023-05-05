@@ -1,1 +1,0 @@
-Something that processes electronic signals into discrete values as opposed to analog values. Typically these devices use binary values. They are considered a form of [[hardware|hardware]].

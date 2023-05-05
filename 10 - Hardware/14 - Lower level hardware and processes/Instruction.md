@@ -1,1 +1,0 @@
-One of the things that a [[CPU|processor]] can do; part of an instruction set.

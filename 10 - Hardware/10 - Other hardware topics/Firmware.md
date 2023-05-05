@@ -1,1 +1,0 @@
-Firmware is a combination of [[hardware|hardware]] and [[software|software]], such as a computer chip that contains software; the chip itself is physical but it has software built into it. An example of firmware is the BIOS chip, which contains basic startup software inside it.

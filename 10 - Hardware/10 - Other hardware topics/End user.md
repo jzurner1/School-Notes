@@ -1,1 +1,0 @@
-An end user is the consumer, or the person that actually uses a product. They are anyone that uses [[digital device|digital devices]].

@@ -1,1 +1,0 @@
-Output devices give information to the user. This is usually in the form of screens but also include audio devices and printers. They work with input devices.

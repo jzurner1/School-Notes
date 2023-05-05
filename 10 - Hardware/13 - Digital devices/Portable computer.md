@@ -1,1 +1,0 @@
-Portable computers are small, portable computers that include laptops, notebooks, and tablets. They generally run on battery and use SSDs. They are types of [[digital device|digital devices]].

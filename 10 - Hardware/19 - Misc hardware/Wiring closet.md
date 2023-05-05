@@ -1,1 +1,0 @@
-A small room found in institutional buildings where cable connections are made. They are most commonly used for computer networking, where it may also be called a premises wire distribution room.

@@ -1,1 +1,0 @@
-A box designed as a junction point for twisted-pair cables and fiber-optic cables. Often exists in a wiring closet.

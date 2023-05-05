@@ -1,3 +1,0 @@
-Solid-state drives (SSDs) are used for long term [[storage|storage]] and are an alternative to hard drives. Instead of spinning disks, however, SSDs use flash memory that incorporate EEPROM (electrically erasable programmable read only memory) chips, which is much faster.
-
-SSDs are more expensive than hard disks, but they are lighter and much faster. This makes them ideal for more portable technologies such as laptops.

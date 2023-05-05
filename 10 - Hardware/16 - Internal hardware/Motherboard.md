@@ -1,3 +1,0 @@
-The motherboard is the main circuit on the computer. The CPU, memory, and storage (hard drives and SSDs) all connect to the motherboard. Modern motherboards have many integrated components such as network interface cards, video cards, and sound processors, all of which previously required seperate components.
-
-The motherboard provides much of the bus of the computer, which is an important part in determining a computer's speed. This combined with the number of data bits that can be moved at one time determine the speed.

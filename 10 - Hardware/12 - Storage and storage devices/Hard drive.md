@@ -1,3 +1,0 @@
-Hard drives are used to [[storage|store data]] over longer periods of time. They are considered non-volatile storage because the data remains even without power. They are an alternative to SSDs.
-
-Hard drives come in different sizes, or form factors. 5.25 inch is available but not popular. 3.5 inch drives are the most common size used for desktop computers. 2.5 inch drives are used in laptops. 1.8 inch is uncommon besides SSDs and small devices such as MP3 players.

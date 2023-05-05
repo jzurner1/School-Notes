@@ -1,1 +1,0 @@
-Network attached storage (NAS) is [[storage|storage]] directly attached to, and accessible through, a network.
