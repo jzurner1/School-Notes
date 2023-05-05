@@ -1,0 +1,1 @@
+Horizontal access control is a type of [[Access control|access control]] that restricts access to resources to the users that are specifically allowed to access those resources. Fo example, a use is allowed to edit their own account but not others.

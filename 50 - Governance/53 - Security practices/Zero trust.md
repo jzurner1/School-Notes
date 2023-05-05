@@ -1,0 +1,1 @@
+Zero trust is a relatively new security concept that many organizations are starting to use. It seeks to reduce or eliminate security breaches by trusting nothing by default. The credo is "never trust, always verify."

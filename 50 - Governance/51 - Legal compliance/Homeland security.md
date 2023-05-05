@@ -1,0 +1,3 @@
+Defined in the *National Strategy for Homeland Security* as "a concerted national effort to prevent terrorist attacks within the United States, reduce America's vulnerability to terrorism, and minimize the damage and recover from attacks that do occur." In the United States, it is managed by the DHS, created after the September 11 attacks.
+
+Practically, homeland security has a much wider scope. It has grown to overlap homeland defense despite being a separate concept. It is managed by a myriad of federal, state, and local civilian agencies lef by the US Department of Homeland Security.

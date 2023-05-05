@@ -1,0 +1,1 @@
+Governance refers to the overall management and overview of an organization's cybersecurity program. This can include things such as policies, [[Risk management|risk management]], and other similar topics.

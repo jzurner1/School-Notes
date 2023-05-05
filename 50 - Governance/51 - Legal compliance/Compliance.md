@@ -1,0 +1,1 @@
+Compliance refers to an organization's ability to adhere to specific regulatory or industry requirements. This usually means adherence to various laws and regulations such as those involving data protection and privacy, among others.

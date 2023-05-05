@@ -1,0 +1,1 @@
+Vertical access control is a type of [[Access control|access control]] that restricts access to sensitive functionality that is not available to other users. For example, an administrator can delete accounts while a regular user cannot.

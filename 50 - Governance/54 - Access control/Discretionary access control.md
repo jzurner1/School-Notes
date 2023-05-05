@@ -1,0 +1,1 @@
+Discretionary access control (DAC) is a type of [[Access control|access control]] where the owner of each object decides who can access it and what permissions they have. It is commonly used by Linux and Windows as well as various business applications.

@@ -1,0 +1,1 @@
+Attribute-based access control (ABAC) is a type of [[Access control|access control]] that applies security attributes to resources, users, and environments and then defines policies governing combinations of those attributes. When a user requests access to a resource, it's approved or denied based on the policy.
