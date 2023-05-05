@@ -1,1 +1,0 @@
-CORS, short for Cross-Origin Resource Sharing, is an [[HTTP|HTTP]]-header based mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.

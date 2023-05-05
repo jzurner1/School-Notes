@@ -1,1 +1,0 @@
-Command line interface, such as a terminal.

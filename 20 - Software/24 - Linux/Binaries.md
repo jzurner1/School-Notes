@@ -1,1 +1,0 @@
-In Linux, binaries are files that can be executed, similar to executables in Windows. They generally reside at the `/usr/bin` or `/usr/sbin` directories.

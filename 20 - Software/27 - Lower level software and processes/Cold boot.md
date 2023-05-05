@@ -1,1 +1,0 @@
-When a computer is started from being off. Goes through all of BIOS and the POST test. The opposite is a warm boot.

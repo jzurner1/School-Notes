@@ -1,1 +1,0 @@
-A software tool used for networking that obtains active measurements of the maximum bandwidth available on an IP network. It supports tuning of various parameters related to timing, buffers, and protocols. The protocols that can be tuned include TCP, UDP, and SCTP.

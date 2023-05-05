@@ -1,1 +1,0 @@
-The data access layer of a piece of software, usually a [[Web application|web application]]. It supports the [[frontend|frontend]].

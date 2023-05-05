@@ -1,3 +1,0 @@
-Most JavaScript frameworks update the [[DOM|DOM]] much more often than they need to, which makes pages slow. This is what the virtual DOM is used for.
-
-In [[ReactJS|React]], every DOM object has a corresponding virtual DOM object, which is a lightweight representation of the DOM object. It has the same properties as the DOM object, but can't actually change what is on the screen. This is similar to editing a blueprint as opposed to changing an actual house; it is much quicker and easier.

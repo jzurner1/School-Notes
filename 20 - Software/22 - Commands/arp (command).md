@@ -1,1 +1,0 @@
-A command used to view MAC address and IP address mappings or to edit a device's MAC address table.

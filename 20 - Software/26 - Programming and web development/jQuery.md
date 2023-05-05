@@ -1,1 +1,0 @@
-jQuery is a [[JavaScript|JavaScript]] library that provides many features. This includes things like DOM traversal and manipulation, event handling, animation, and [[AJAX|AJAX]], among others.

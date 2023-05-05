@@ -1,1 +1,0 @@
-cURL is a software package used for retrieving files using many protocols, including all of those used by wget and more. It can be used in scripts easily as it is noninteractive.

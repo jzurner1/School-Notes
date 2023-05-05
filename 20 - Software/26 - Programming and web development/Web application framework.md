@@ -1,1 +1,0 @@
-A web application framework (WAF) or web framework (WF) is a [[Software|software]] framework that is designed to support the development of [[Web application|web applications]]. They offer a way to create and run those web applications in a quicker way than programming it all from scratch.

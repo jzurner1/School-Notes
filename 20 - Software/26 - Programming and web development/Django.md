@@ -1,1 +1,0 @@
-Django is a Python [[framework|framework]] for web development. It was designed to be as efficient as possible for development. It is scalable and easy to use.

@@ -1,3 +1,0 @@
-Interpreted code is a term used for languages that are run from top to bottom without being converted into some other form. It is the opposite of [[compiled code|compiled code]].
-
-For example, JavaScript executes line-by-line and doesn't need to be in any other form to run. (Side note: JavaScript is technically compiled into a faster, binary format while the script is being used. Because the compilation is handled at run time, it is still considered an interpreted language).

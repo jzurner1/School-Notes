@@ -1,1 +1,0 @@
-Short for cascading style sheets, CSS is used to format the style of webpages.

@@ -1,1 +1,0 @@
-The change group command can be used to change the group assigned to a file or directory. The syntax is `chgrp [options] <new group> <file(s)>`.

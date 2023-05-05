@@ -1,1 +1,0 @@
-The Apache HTTP server is a free and open-source cross-platform [[Web server|web server]] software.

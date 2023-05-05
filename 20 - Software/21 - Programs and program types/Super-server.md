@@ -1,3 +1,0 @@
-Programs that listen for network connections for several different applications. When the super-server receives a request for a service, it spawns the appropriate service program. This is a type of daemon that is used as an alternative to just running a bunch of daemons.
-
-The original super-server program for Linux servers was the internet daemon (inetd) application. It runs as a daemon, listens for specific requests from clients, and launches the appropriate service program when needed. The newer version of this is the extended internet daemon (xinetd) application, which contains additional features such as access control lists, more advanced logging abilities, and scheduling services.

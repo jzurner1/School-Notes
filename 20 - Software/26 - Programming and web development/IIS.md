@@ -1,1 +1,0 @@
-IIS, short for Internet Information Services, is an extensible [[web server|web server]] created by Microsoft for use with the Windows NT family. It was designed to be flexible, secure, and easily manageable. Most commonly, it is used to host [[ASP.NET|ASP.NET]] [[Web application|web applications]] and static websites.

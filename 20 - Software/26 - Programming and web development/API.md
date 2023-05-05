@@ -1,1 +1,0 @@
-An application programming interface (API) is a pre-made set of code that allows developers to implement programs in their applications. There are two types, [[Browser API|browser APIs]] and [[Third-party API|third-party APIs]].

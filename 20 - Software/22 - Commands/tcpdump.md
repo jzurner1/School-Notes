@@ -1,1 +1,0 @@
-A command used to print out the headers of packets on a network interface.
