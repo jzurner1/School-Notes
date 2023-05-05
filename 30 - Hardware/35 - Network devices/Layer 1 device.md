@@ -1,0 +1,3 @@
+A layer 1 device is a device that works at the [[Physical layer|physical layer]] of the OSI model. These devices work with the physical information passed through the cords.
+
+For example, a [[Modem|Modem]] is a layer 1 device because it modulates or demodulates signals. It doesn't impact anything on any other layer. A [[Hub|Hub]] is another example; hubs just concentrate or repeat signals and don't do anything else.

@@ -1,0 +1,1 @@
+A control unit is part of a [[CPU|processor]]. It fetches, decodes and executes instructions, meaning that it retrieves data from memory, interprets instructions, and carries them out, respectively. It also issues control signals that control hardware and it moves data around the system.

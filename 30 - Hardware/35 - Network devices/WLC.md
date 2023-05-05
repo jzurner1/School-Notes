@@ -1,0 +1,1 @@
+A wireless LAN controller is a network device that controls a lightweight access point. They permit the central control and management of a large number of lightweight access points. They can simplify the administration of access points and they can also assist in the monitoring and maintenance of the wireless infrastructure.

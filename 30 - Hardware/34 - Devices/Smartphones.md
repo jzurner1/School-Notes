@@ -1,0 +1,1 @@
+Smartphones are cell phones with additional features such as email, location, calendar, SMS, and more. They are the single most popular [[Digital device|Digital device]] and mobile device.

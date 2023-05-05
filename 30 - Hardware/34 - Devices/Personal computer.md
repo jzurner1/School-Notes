@@ -1,0 +1,1 @@
+Also called a microcomputer; a small computer for personal use. A type of [[Digital device|digital device]].

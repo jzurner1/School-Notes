@@ -1,0 +1,1 @@
+NAND flash memory is a type of non-volatile [[Storage|Storage]] technology. Non-volatile means that it does not require power to retain data. An example includes microSD cards.

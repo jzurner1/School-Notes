@@ -1,0 +1,1 @@
+A router is a layer 3 [[Network device|Network device]], meaning it makes forwarding devisions based on logical network address information (such as IP addresses). Similar to a multilayer switch, a router has the capacity to consider high-layer traffic parameters such as quality of service in making forwarding decisions.

@@ -1,0 +1,1 @@
+The [[CPU|processor]] contains a clock which is used to coordinate all of the computer's components. It sends out regular electrical pulses which synchronize all the components. The frequency of these pulses is known as the clock speedd. The higher the frequency, the faster instructions can be performed.

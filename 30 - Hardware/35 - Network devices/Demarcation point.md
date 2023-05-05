@@ -1,0 +1,1 @@
+The point at which the public network (provided by the ISP) ends and connects with a consumer's on-premises network.

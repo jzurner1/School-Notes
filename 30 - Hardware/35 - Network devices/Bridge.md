@@ -1,0 +1,5 @@
+A [[Network device|networking device]] that is used to join two or more LAN segments, typically two Ethernet LAN segments. They can be used to scale Ethernet networks to a larger number of attached devices.
+
+Unlike a hub, a bridge makes intelligent forwarding decisions based on the destination MAC address in a frame. A bridge analyzes source MAC address information on frames entering the bridge and populates an internal MAC table based on the information. When a frame enters the bridge destined for a known MAC address, the bridge can forward the frame out the appropriate port. Because a bridge makes forwarding decisions based on layer 2 information, it is considered a layer 2 device.
+
+A bridge segments a LAN into multiple collision domains (one per port), but they all belong to the same broadcast domain.
