@@ -1,0 +1,1 @@
+Removable storage is [[Storage|Storage]] that can easily be added to and removed from a device, such as a flash drive. Originally they were floppy disks, then CD-ROM drives, and now USB drives, which are standard on all PCs.

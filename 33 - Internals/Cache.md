@@ -1,0 +1,1 @@
+A cache is a small amount of high-speed random-access memory built directly into the [[CPU|processor]]. It is used to temporarily hold data and instructions that the processor is likely to use. This allows for faster processing as the processor does not have to wait for the data and instructions to be fetched from the RAM.

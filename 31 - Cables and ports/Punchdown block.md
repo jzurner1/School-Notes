@@ -1,0 +1,1 @@
+Also known as a cross-connect block, it is used to interconnect [[Cable|cables]] coming from end user offices with a networked device. It is used within LANs.

@@ -1,0 +1,1 @@
+EMI is a type of interference for [[Cable|cables]] that occurs when an external signal is received on a wire and might result in a corrupted data transmission

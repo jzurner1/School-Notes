@@ -1,0 +1,1 @@
+The DisplayPort is a type of [[Video port|Video port]] that can send and receive video, audio, or both types of signals simultaneously. This port is designed primarily for display devices such as monitors or televisions.
