@@ -1,1 +1,0 @@
-Websites can redirect the browser to a different URL, typically using server-side scripts. Legitimate sites do it often, and compromised sites can redirect users to malicious sites. This is often used for credential harvesting. URL redirection is a form of [[Redirection|redirection]] attack.

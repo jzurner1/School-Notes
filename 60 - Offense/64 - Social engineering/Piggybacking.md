@@ -1,1 +1,0 @@
-Wireless acces have a range of between 150-300 feet for indoor and up to 1000 feet for outdoor. This may allow for other people within that range to connect to the network and access it, possibly slowing your network or using it for malicious activity.

@@ -1,3 +1,0 @@
-A type of [[Man-in-the-middle|MITM/on-path]] attack used to bypass secure connections using SSL/TLS encryption, such as HTTPS. The attacker communicates with the client using either plaintext HTTP or a fraudulent HTTPS certificate, and establishes a separate HTTPS connection to the server. By relaying the messages between the two, the attacker stays on one end of the SSL tunnel and doesn't have to worry about breaking encryption.
-
-This is most effective when applications or services allow both secure and non-secure versions, or make it easy for users to accept invalid certificates. This is more difficult today.

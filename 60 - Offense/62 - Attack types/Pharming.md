@@ -1,1 +1,0 @@
-Pharming is a type of [[DNS poisoning|DNS poisoning]] attack where an attacker redirects traffic for a legitimate website to a malicious imitator. An attacker uses the site to distribute malware or harvest information, similar to a phishing attack.

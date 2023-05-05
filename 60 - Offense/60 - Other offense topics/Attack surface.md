@@ -1,1 +1,0 @@
-All of the software and services installed in a system that are vulnerable to an attack.

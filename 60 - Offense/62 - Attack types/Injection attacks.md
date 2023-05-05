@@ -1,1 +1,0 @@
-Injection attacks are a category of attacks that involve providing malicious input to a web application in order to change the application's operations. This can often lead to exposing information, denial of service, or other forms of compromise.

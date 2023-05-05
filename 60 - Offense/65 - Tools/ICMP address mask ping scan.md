@@ -1,3 +1,0 @@
-- Another alternative (besides the [[ICMP timestamp ping scan|ICMP timestamp ping scan]]) to the traditional [[ICMP ECHO ping scan|ICMP ECHO ping scan]]
-- Conditional depending on subnet configuration
-- Basic nmap syntax is `nmap -sn -PM <target(s)>`

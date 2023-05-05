@@ -1,1 +1,0 @@
-Switches often use VLANs to segment traffic for performance and security reasons. Hosts on different VLANs can't communicate directly, even when connected to the same switch. Compromising the protocols used to define and control VLANs lets an attacker divert traffic to the wrong VLAN, exposing it to attack. VLAN hopping is a type of [[Redirection|redirection]] attack.

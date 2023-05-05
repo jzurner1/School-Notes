@@ -1,1 +1,0 @@
-The outdated practice of calling all phone numbers in a certain range. Phone numbers that answered with a modem tone would become targets for later attacks. A modern day variant is wardriving.

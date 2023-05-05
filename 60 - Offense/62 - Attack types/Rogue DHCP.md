@@ -1,1 +1,0 @@
-Rogue DHCP servers can be a type of attack or accidental. If they are intentional, the attacker may seek to disrupt or redirect end-user traffic by providing false DHCP leased IP address information. Today, DHCP snooping provides protection against such attacks.

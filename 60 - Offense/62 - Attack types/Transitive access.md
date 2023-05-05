@@ -1,3 +1,0 @@
-Transitive access occurs when an attacker has the ability to gain access to a network or system indirectly, usually by exploiting vulnerabilities in intermediate systems or devices.
-
-For example, an attacker may want access to an organization's internal network. This could be done by sending a phishing email to an employee and consequently compromising that employee's device. This could give the attacker transitive access, where the employee's device is the intermediate system.

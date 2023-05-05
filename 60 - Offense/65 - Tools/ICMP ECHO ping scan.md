@@ -1,7 +1,0 @@
-- Used to gather necessary information about a system
-- Does not include port abstraction, different from port scanning
-- Useful to determine what hosts in a network are running by pinging them all
-- Involves sending ICMP ECHO requests to a host
-- If the host is alive, it will return an ICMP ECHO
-- Useful for locating active devices or determining if ICMP is passing through a firewall
-- Basic nmap syntax is `nmap -sn -PE <target(s)>`

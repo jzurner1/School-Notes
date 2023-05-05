@@ -1,1 +1,0 @@
-A wireless threat is a security threat for a wireless device or network. These threats are more prevalent than those of wired networks. It includes piggybacking, wardriving, and unauthorized computer access. It also includes the categories within public wireless threats.

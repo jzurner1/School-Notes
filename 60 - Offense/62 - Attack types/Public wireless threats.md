@@ -1,1 +1,0 @@
-In public places, wireless networks may be free for customers to access. This network is usually insecure which opens up the possibility for a number of attacks such as evil twin attacks, wireless sniffing, peer-to-peer connections, and shoulder surfing.

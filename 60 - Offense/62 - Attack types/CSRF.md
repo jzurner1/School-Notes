@@ -1,1 +1,0 @@
-CSRF, short for cross-site request forgery and also known as a one-click attack or session riding, is an attack that forces an end user to execute unwanted actions on a web application that they're currently authenticated on.

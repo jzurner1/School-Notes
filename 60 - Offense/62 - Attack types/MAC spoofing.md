@@ -1,1 +1,0 @@
-The practice of falsifying the MAC address of a wireless network card, possibly to get around filtering. It is often the first step in a larger and more sophisticated attack, and it is easy to accomplish.

@@ -1,1 +1,0 @@
-MAC cloning is a type of [[MAC spoofing|MAC spoofing]] that involves spoofing the MAC address of another device on the same network. This is often used to defeat access controls.

@@ -1,1 +1,0 @@
-If a computer has an unsecured file sharing system, it can be infiltrated by other users during piggybacking.

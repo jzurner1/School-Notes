@@ -1,1 +1,0 @@
-A type of social engineering that involves sending an email that looks legitimate to a user in an attempt to make them input information that can be captured by the attacker.

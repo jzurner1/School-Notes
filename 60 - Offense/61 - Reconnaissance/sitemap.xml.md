@@ -1,1 +1,0 @@
-sitemap.xml is a page that may be used by a website. Its goal is to list all the pages that are allowed to be accessed by search engines. It is the opposite of robots.txt.

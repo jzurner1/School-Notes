@@ -1,1 +1,0 @@
-Deauthentication is a type of attack in which an attacker sends a deauthentication frame to the victim to disconnect the client from the wireless LAN. By itself it doesn't do much, but it can be combined with other attacks such as an evil twin attack.
