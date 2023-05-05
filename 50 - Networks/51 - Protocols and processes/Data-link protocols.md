@@ -1,3 +1,0 @@
-Data-link protocols are protocols that work at the [[Data link layer|data-link layer]] of the OSI model. They all control the correct delivery of some kind of data over some kind of physical link.
-
-For example, the [[Ethernet data-link protocol|Ethernet data-link protocol]] includes a destination address field to identify the correct device that should receive the data as well as an FCS field to determine if the data arrived correctly. [[HDLC|HDLC]] is another example.

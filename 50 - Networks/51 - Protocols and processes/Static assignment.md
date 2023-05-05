@@ -1,1 +1,0 @@
-Manual assignment of IP addresses over a network. An alternative to dynamic address assignment with DHCP.

@@ -1,1 +1,0 @@
-Time-division multiplexing. A type of multiplexing that supports different communication sessions on the same physical medium by causing the session to take turns.

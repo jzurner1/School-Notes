@@ -1,3 +1,0 @@
-A network timeout is a set amount of time for handling unplanned events. For example, if a website is down, your computer will still attempt to access it until the timeout period is over, after which an error message will be shown.
-
-There are a number of reasons for network timeout, among them a system being down, an incorrect IP address, a service not running, a firewall blocking traffic, or network congestion, among others.

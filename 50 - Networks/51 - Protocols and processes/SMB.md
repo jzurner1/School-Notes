@@ -1,1 +1,0 @@
-Server message block is a protocol used to share files, printers, and other network resources. It is used by Microsoft whil Unix and Linux clients use NFS. Older versions used both UDP and TCP port 3020, but newer versions (after Windows 2000) use port 445 on top of a TCP stack.

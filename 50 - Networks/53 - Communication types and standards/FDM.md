@@ -1,1 +1,0 @@
-Frequency-division multiplexing. A type of multiplexing that divides a medium's frequency range into channels, and different communication sessions send their data over different channels.

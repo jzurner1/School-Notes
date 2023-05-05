@@ -1,1 +1,0 @@
-Trivial file transfer protocol is a version of the FTP that doesn't require authentication. This protocol runs on UDP port 69.

@@ -1,1 +1,0 @@
-A type of network setup/orientation

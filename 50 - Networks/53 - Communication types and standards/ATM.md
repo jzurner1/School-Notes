@@ -1,1 +1,0 @@
-Asynchronous transfer mode is a telecommunications standard defined by ANSI for digital transmission of multiple types of traffic.

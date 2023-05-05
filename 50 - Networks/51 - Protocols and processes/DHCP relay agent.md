@@ -1,3 +1,0 @@
-If a client during DHCP exists on a different network than the DHCP server, the client's next-hop router should be configured as a relay agent which allows a router to relay DHCP requests to either a unicast IP address or a directed broadcast address for a network. The DHCP relay agent can be known as a DHCP relay or an IP helper.
-
-A DHCP relay agent allows you to centrally locate a DHCP server that can simultaneously service many different subnets in an enterprise's infrastructure. This is very desireable as it is much easier to manage. If the relay agents aren't set up correctly, however, the broadcasts will not be successful.

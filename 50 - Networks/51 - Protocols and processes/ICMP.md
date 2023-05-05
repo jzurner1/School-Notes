@@ -1,3 +1,0 @@
-Internet control message protocol is a protocol similar to TCP and UDP. It is used by network devices such as routers to send error messages and operational information indicating success or failure when communicating with another device. For example, if a host cannot be reached, it will notify the sender.
-
-Unlike TCP and UDP, ICMP is not typically used to exchange data between systems, nor is it regularly employed by end user network applications besides some diagnostic tools like ping and traceroute.

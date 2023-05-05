@@ -1,1 +1,0 @@
-A connection that allows a device to simultaneously transmit and receive data. Opposite of half-duplex

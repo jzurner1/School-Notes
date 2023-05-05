@@ -1,1 +1,0 @@
-A public IP address is an IP address that can be directly accessed through the internet. It is provided by a network's ISP.

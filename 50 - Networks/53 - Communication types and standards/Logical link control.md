@@ -1,1 +1,0 @@
-Logical link control (LLC) is a sublayer within the [[Data link layer|data link layer]]. It is implemented in software and provides services to the upper layers.

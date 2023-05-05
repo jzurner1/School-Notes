@@ -1,1 +1,0 @@
-Rapid STP is a version of [[STP|Spanning Tree Protocol]].

@@ -1,3 +1,0 @@
-A subnet (short for subnetwork) is a smaller network within a larger network. Routers are used to divide subnets.
-
-Subnets are used partially to prevent [[Broadcast|broadcasts]] from overwhelming a network. If there are too many devices directly connected to a switch, the number of devices in the [[Broadcast domain|broadcast domain]] is simply too many. The traffic would be reduced for multiple subnets connected with routers because broadcasts cannot pass through routers.

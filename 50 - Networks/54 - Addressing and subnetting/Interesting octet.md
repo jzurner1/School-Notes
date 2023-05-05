@@ -1,1 +1,0 @@
-The interesting octet is the last octet in a subnet mask that contains a 1.

@@ -1,1 +1,0 @@
-Media gateway control protocol is a protocol used as call control for voice over IP networks (VoIP). It uses port 2427 for both TCP and UDP.

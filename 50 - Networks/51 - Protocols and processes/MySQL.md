@@ -1,1 +1,0 @@
-MySQL is an open-source relational database management system (RRDBMS) and includes a protocol that uses TCP port 3306.

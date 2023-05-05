@@ -1,1 +1,0 @@
-Post office protocol version 3 over SSL is a protocol that retrieves email from an email server. It is the secure version of POP3 and uses TCP port 995.

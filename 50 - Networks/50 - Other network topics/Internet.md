@@ -1,1 +1,0 @@
-A large-scale network containing servers and devices from all over the world

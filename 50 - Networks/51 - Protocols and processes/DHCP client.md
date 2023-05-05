@@ -1,1 +1,0 @@
-Any device that needs an IP address that is also not configured as static. It will follow the standards set by the DHCP protocol with a DHCP server.

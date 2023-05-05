@@ -1,1 +1,0 @@
-Jitter is a [[Network performance metrics|network performance metric]] used to indicate high deviations from a network's average [[latency|latency]].

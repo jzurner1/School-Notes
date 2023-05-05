@@ -1,1 +1,0 @@
-File transfer protocol, a protocol that can be used to transfer files with a remote host. Uses TCP ports 20 and 21.

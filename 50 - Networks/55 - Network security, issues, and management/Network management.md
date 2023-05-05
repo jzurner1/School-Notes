@@ -1,3 +1,0 @@
-Network management is the practice of keeping a network under control and healthy. Usually, this involves using SNMP as the network management software. It is important to make sure that the network performance metrics and logs are monitored as well.
-
-There are two main types of network management, specifically with remote access technologies. Out-of-band management means that the network traffic never mingles with the user data traffic, while in-band management means that they can share the same path.

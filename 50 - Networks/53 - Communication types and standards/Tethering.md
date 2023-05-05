@@ -1,1 +1,0 @@
-Tethering allows a smartphone's data connection to be used by another device such as a laptop.

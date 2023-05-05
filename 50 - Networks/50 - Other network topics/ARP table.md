@@ -1,1 +1,0 @@
-An ARP table is an internal table held in computers that holds ARP information, specifically IP addresses and their corresponding MAC address.

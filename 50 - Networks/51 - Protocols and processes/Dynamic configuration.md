@@ -1,1 +1,0 @@
-The practice of automatically assigning IPv4 addresses to devices on a network, usually when they join for the first time. Originally this was done with BOOTP but has since switched to DHCP.

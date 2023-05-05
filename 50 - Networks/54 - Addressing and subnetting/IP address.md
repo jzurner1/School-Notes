@@ -1,1 +1,0 @@
-A numerical label attached to each network device that provides identification. Assigned with DHCP.

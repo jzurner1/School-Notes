@@ -1,1 +1,0 @@
-Network time protocol is a protocol used to synchronize network devices with a time server known as an NTP server. It relies on UDP port 123.

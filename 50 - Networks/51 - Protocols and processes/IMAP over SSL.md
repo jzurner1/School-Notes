@@ -1,1 +1,0 @@
-Instant message access protocol over SSL is a protocol used to retrieve email from an email server. It is one of many email protocols. It uses TCP port 993 and replaces IMAP.

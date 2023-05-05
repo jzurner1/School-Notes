@@ -1,1 +1,0 @@
-If a networked device doesn't have a static IP address and can't connect to a DHCP server, it may still be able to communicate on an IP network thanks to automatic private IP addressing (APIPA). This feature allows a networked device to self-assign an IP address from the 169.254.0.0/16 network. This address is only usable on the local subnet and isn't routable.

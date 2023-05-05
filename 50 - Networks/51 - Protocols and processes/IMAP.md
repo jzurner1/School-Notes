@@ -1,1 +1,0 @@
-Instant message access protocol is a protocol used to retrieve email from an email server. There are many other email protocols. It uses TCP port 143 and has since been replaced by IMAP over SSL.

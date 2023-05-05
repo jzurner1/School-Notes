@@ -1,1 +1,0 @@
-Orthogonal frequency-division multiplexing. A type of multiplexing that encodes digital data onto multiple carrier frequencies.

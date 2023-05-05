@@ -1,1 +1,0 @@
-NetBIOS is an API developed to allow computer-to-computer communication on a LAN. It is considered to be a layer 5 technology as it is responsible for setting up, maintaining, and tearing down sessions.

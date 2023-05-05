@@ -1,1 +1,0 @@
-A software-defined wide area network is a form of network, specifically a WAN, defined by software. It provides a simple policy and profile approach to managing the WAN with tools that allow better insight.

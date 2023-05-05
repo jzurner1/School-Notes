@@ -1,1 +1,0 @@
-H.323 is a signaling protocol that uses port 1720.
