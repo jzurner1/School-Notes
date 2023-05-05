@@ -1,0 +1,1 @@
+A type of [[Replay attack|replay attack]] similar to session replay, except that the attacker takes over the session immediately after the client logs in.
