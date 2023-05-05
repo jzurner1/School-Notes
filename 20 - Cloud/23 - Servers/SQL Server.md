@@ -1,0 +1,1 @@
+SQL server is used to run SQL queries against data in a database. It uses TCP and UDP port 1433.

@@ -1,0 +1,1 @@
+Storage-as-a-service, technically falls under the [[SaaS|SaaS]] category. Examples include OneDrive and Dropbox.
