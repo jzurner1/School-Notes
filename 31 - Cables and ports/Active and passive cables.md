@@ -1,1 +1,0 @@
-A passive [[Cable|Cable]] does not contain a chip, while an active cable does. The chip boosts the signal and allows the cables to be thinner and can send the signals further and faster than passive cables.
