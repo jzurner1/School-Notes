@@ -1,1 +1,0 @@
-Any hardware device that can be used to aid authentication by containing secret information, such as a USB that can store a digital certificate.
