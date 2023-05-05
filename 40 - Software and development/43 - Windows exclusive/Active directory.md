@@ -1,0 +1,1 @@
+The Windows directory service that enables administrators to create and manage users and groups, set network-wide user and computer policies, manage security, and organize network resources.

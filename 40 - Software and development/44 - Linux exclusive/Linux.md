@@ -1,0 +1,1 @@
+A free, open-source operating system. It comes in multiple versions, known as distributions.

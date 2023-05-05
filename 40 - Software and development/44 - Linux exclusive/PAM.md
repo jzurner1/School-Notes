@@ -1,0 +1,1 @@
+Pluggable Authentication Modules (PAMs) provide centralized authentication services for Linux and applications.

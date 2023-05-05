@@ -1,0 +1,1 @@
+LM authentication protocol is an [[Authentication|authentication]] protocol used to store user passwords. It has been replaced by the [[NTLM|NTLM]] authentication protocol. Both are stored in the Windows [[Security Accounts Manager|SAM]]. By default, the LM hash is blank in the SAM in newer versions of Windows.
