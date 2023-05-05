@@ -1,0 +1,3 @@
+Fuzzing is the process of using a program (called a fuzzer) to find abnormal responses to certain data used as input. This may mean crashing a system, gaining permissions, or most commonly, finding out how a system responds to non-standard input for future attacks.
+
+Fuzzing can be used during development or during penetration testing. When used during development, it is intended to find any situations where input validation needs to be added or improved. During penetration testing, it is used to find vulnerabilities in the input system.

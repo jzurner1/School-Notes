@@ -1,0 +1,1 @@
+When browsing a webpage, you can right click and press inspect element to open the developer tools. This is useful for active recon.

@@ -1,0 +1,1 @@
+Hping2/Hping3 is a command-line-oriented network [[Scanning|scanning]] and packet-crafting tool for the [[TCP IP Stack|TCP/IP protocol]] that sends [[ICMP|ICMP]] echo requests and supports [[TCP|TCP]], [[UDP|UDP]], ICMP, and raw-IP protocols.
