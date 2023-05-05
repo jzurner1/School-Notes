@@ -1,0 +1,1 @@
+Software designed to perform wireless analysis of WiFi signals, possibly used as part of a wireless site survey to create a heat map of the wireless signal strength.
