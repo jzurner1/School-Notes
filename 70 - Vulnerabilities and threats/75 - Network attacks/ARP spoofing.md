@@ -1,0 +1,1 @@
+A type of attack where the layer 2 MAC address is misrepresented. It can be used to bypass simple MAC-based security mechanisms such as port security.

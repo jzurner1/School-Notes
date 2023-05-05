@@ -1,0 +1,1 @@
+Many public access points are not secured and the traffic carried is not encrypted. This can allow malicious users to "sniff" information sent over the network.

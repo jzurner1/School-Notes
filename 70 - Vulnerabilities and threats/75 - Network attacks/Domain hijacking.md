@@ -1,0 +1,1 @@
+Because domains need to be re-registered every so often, it may be possible for an attacker to quickly register an expired domain and use it to redirect traffic from users that expect it to be the original site. This is very similar to pharming but doesn't require DNS poisoning. It is a type of [[Redirection|redirection]] attack.

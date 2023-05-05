@@ -1,0 +1,29 @@
+In general, application vulnerabilities refer to attacks that can exploit web applications and browsers, associated databases and scripting languages, and so on, regardless of the underlying network protocols being used.
+
+- **Privilege escalation**: Gaining increased privileges within an existing session, for example, accessing administrator-only commands from an ordinary user account.
+- **Directory traversal**: Accessing directories on the target machine that regular clients do not, such as accessing a server's root folder.
+- **Arbitrary code execution**: Executing machine code of your choice on a remote computer, also known as **remote code execution (RCE)**.
+- **Resource exhaustion**: Overwhelming an application with malicious requests until it crashes or is too busy to respond to legitimate users. Attacker requests could be designed to generate errors, consume excessive CPU time or memory space, or just have such a high volume that the host can't keep up.
+- **Injection**: A broad term for sending specially formatted input that will be processed by some sort of command interpreter within the web application or host machine.
+- **Broken authentication systems**: Allow attackers to gain unauthorized access to applications and databases.
+- **Sensitive data exposure**: When data is transmitted or stored without adequate encryption or in an inappropriate location.
+- **XML external entities (XXE)**: A type of injection attack which exploits a feature of common XML parsers. Can be used to steal data or issue commands to other applications through an insecure parser.
+- **Broken access control**: Misconfigurations such as excessive permissions or poorly enforced authorization systems that allow attacks such as privilege escalation.
+- **Security misconfigurations**: Misconfigurations of security systems such as lack of patches or poor error handling.
+- **Cross-site scripting (XSS)**: Allows remote code execution on client browsers, used to gain control of the end user's browser or session.
+- **Insecure deserialization**: Occurs when data stored in some storage format like JSON is converted to its original form and used as program input, where it can be malformed to cause DoS, SQL injections, or RCE.
+- **Using components with known vulnerabilities**: When an application is made up of a part or multiple parts that contain already known vulnerabilities.
+- **Insufficient logging and monitoring**: Allows attacks and insecure behaviors to go unnoticed, which can lead to larger problems.
+- **Header manipulation**: Changing values in the headers used by communication protocols (often HTTP). MAC and IP spoofing are common examples. Session hijacking often rely on TCP header manipulation.
+- **Memory manipulation**: Sending input into a program that will affect variables and other values in memory to produce either unexpected behavior or a failure of the system.
+- **Buffer overflow**: Sending too much information in a request sent to an appllication so that it overfills the memory buffer meant to store it, and it overflows into adjacent memory.
+- **Integer overflow**: Setting an integer variable to a value that exceeds the maximum side set aside to store it, usually through addition or multiplication functions.
+- **Dereferencing**: Retrieving the object that an internal pointer points to.
+- **Memory leak**: When a program doesn't properly release memory when it doesn't need it, it can build up and break the system.
+- **Race condition**: When multiple programs attempt to complete the same task, it can cause issues. Most commonly, one program will complete the task and the other program will attempt to do so but can't, so something messes up.
+- **NoSQL injection**: A type of injection attack that uses NoSQL instead of SQL.
+- **LDAP injection**: A type of injection attack that can attack LDAP directory services.
+- **XML injection**: A type of injection attack used to exploit XML queries.
+- **Command injection**: A type of injection attack that can execute operating system commands against the server.
+- **DLL injection**: A type of injection attack where code is inserted into a running process by forcing it to load executable code from a shared library file, like DLL files.
+- **Request forgeries**: Also called CSRF or XSRF, request forgeries are similar to XSS except they exploit the site's trust of the user.

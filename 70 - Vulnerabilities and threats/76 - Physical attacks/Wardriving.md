@@ -1,0 +1,1 @@
+Wardriving is a type of piggybacking. People will drive around and detect unsecured networks, then either use that information for themselves or provide it to others to perpetrate illegal activities.
