@@ -1,0 +1,1 @@
+A device that provides [[Multifactor authentication|multifactor authentication]]. It fulfills the requirement for "something you have."

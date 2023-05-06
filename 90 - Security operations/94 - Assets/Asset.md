@@ -1,0 +1,1 @@
+Anything of value to an organization, such as data or physical property.
