@@ -1,0 +1,1 @@
+A port-based VLAN is a type of [[VLAN|VLAN]] that assigns each port of a [[Switch|switch]] to a specific VLAN.
