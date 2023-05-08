@@ -1,3 +1,1 @@
-A type of attack in which an attacker injects false entries into the DNS system. This might be used to deny service to systems or to redirect them to websites that may be designed to disseminate malware or collect credentials. DNS poisoning is a type of [[Redirection|redirection]] attack.
-
-For example, a poisoned DNS cache might redirect requests for a popular page to instead go to a malicious site.
+DNS poisoning, also known as DNS spoofing or DNS cache poisoning, is a type of attack where an attacker submits incorrect information to a DNS cache so that DNS queries to that cache will return an incorrect response. This will redirect users from their intended website to a malicious one by providing the incorrect IP address.

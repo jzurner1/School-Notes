@@ -2,4 +2,4 @@ Redirection techniques divert traffic from a target sender to a location of the 
 
 There are many reasons to do this, including eavesdropping, forcing a target to connect to something malicious, or exposing a target to other network attacks.
 
-Common redirection attacks include [[ARP cache poisoning|ARP poisoning]], [[DNS poisoning|DNS poisoning]], [[Domain hijacking|domain hijacking]], [[URL redirection|URL redirection]], [[VLAN hopping|VLAN hopping]], and MAC flooding.
+Common redirection attacks include [[ARP poisoning|ARP poisoning]], [[DNS poisoning|DNS poisoning]], [[Domain hijacking|domain hijacking]], [[URL redirection|URL redirection]], [[VLAN hopping|VLAN hopping]], and MAC flooding.
