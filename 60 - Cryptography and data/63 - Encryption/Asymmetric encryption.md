@@ -1,4 +1,6 @@
-Asymmetric [[Encryption|Encryption]], also known as public/private key pairs, is slower than symmetric encryption but provides better security. It uses different keys for the sender and receiver. Because of its speed, it is not usually used for real-time data; rather, it is usually used to encrypt smaller chunks of data. This smaller chunk of data may be used to authenticate the other party in a conversation or to exchange a shared key during a session.
+Asymmetric encryption is a key system where two keys are used. One of the keys is kept secret and is referred to as the private key, while the other is widely available and is referred to as the public key.
+
+The public and private keys are mathematically related so that the information encrypted with the public key can only be decrypted with the corresponding private key. This is slower but more secure and scalable than [[Symmetric encryption|symmetric encryption]].
 
 ![[Pasted image 20220924133301.png]]
 ![[Pasted image 20220924133324.png]]
