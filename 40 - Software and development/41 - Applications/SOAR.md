@@ -1,0 +1,3 @@
+SOAR, short for security orchestration, automation, and response, is a technology built on top of [[SIEM|SIEM]]. SOAR includes using automation to respond to security incidents.
+
+SOAR often includes [[Orchestration|orchestration]], automation, incident management, and reporting. This combination provides a number of benefits, among which are higher efficiency, more consistent results, and real-time visibility.
