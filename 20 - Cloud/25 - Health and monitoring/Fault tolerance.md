@@ -1,0 +1,1 @@
+The capability of a system to keep working in the event of a fault or failure, thanks to redundancy.
