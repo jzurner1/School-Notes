@@ -1,0 +1,3 @@
+A methodology for integrating security at every step of the [[SDLC|SDLC]].
+
+Originally, security was more of an afterthought than anything else. With the increased popularity of methodologies like [[Agile methodology|Agile]], it became necessary to integrate security with development so it doesn't fall behind. DevSecOps makes it so that the software is constantly scanned, tested, and reviewed for security issues, making it much less likely for a major issue to slip through the cracks.
